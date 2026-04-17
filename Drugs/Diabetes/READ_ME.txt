@@ -1,0 +1,1 @@
+These diabetes drug codelists were collected from https://github.com/Exeter-Diabetes/CPRD-Codelists/tree/main and validated by checking published codelists on hdr uk where no additional products were identified

@@ -1,0 +1,1 @@
+Care is required when using Excel, as it can automatically reformat long numeric codes (e.g. converting them to scientific notation or dates), which can alter the original values if cells are not explicitly set to Text format.

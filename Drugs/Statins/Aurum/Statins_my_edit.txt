@@ -1,0 +1,93 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+1337541000033111	42382311000001100	Simvastatin 40mg tablets	Simvastatin 40mg tablets	Simvastatin	40.000mg	Tablet/ Oral Tablet	Oral	02120000	116824147
+92041000033111	39733011000001106	Atorvastatin 20mg tablets	Atorvastatin 20mg tablets	Atorvastatin calcium trihydrate	20.000mg	Tablet/ Oral Tablet	Oral	02120000	95100731
+1336941000033119	42382111000001102	Simvastatin 20mg tablets	Simvastatin 20mg tablets	Simvastatin	20.000mg	Tablet/ Oral Tablet	Oral	02120000	71800088
+92141000033110	39733111000001107	Atorvastatin 40mg tablets	Atorvastatin 40mg tablets	Atorvastatin calcium trihydrate	40.000mg	Tablet/ Oral Tablet	Oral	02120000	64313645
+91941000033117	39695411000001103	Atorvastatin 10mg tablets	Atorvastatin 10mg tablets	Atorvastatin calcium trihydrate	10.000mg	Tablet/ Oral Tablet	Oral	02120000	42411425
+2261041000033114	39733211000001101	Atorvastatin 80mg tablets	Atorvastatin 80mg tablets	Atorvastatin calcium trihydrate	80.000mg	Tablet/ Oral Tablet	Oral	02120000	27497086
+1336841000033110	42381911000001105	Simvastatin 10mg tablets	Simvastatin 10mg tablets	Simvastatin	10.000mg	Tablet/ Oral Tablet	Oral	02120000	19712782
+1136541000033116	42380011000001102	Pravastatin 40mg tablets	Pravastatin 40mg tablets	Pravastatin sodium	40.000mg	Tablet/ Oral Tablet	Oral	02120000	9978659
+2891541000033111	42297211000001100	Rosuvastatin 10mg tablets	Rosuvastatin 10mg tablets	Rosuvastatin calcium	10.000mg	Tablet/ Oral Tablet	Oral	02120000	7741076
+1130241000033116	42379911000001103	Pravastatin 20mg tablets	Pravastatin 20mg tablets	Pravastatin sodium	20.000mg	Tablet/ Oral Tablet	Oral	02120000	6567761
+3836041000033114	42381811000001100	Rosuvastatin 5mg tablets	Rosuvastatin 5mg tablets	Rosuvastatin calcium	5.000mg	Tablet/ Oral Tablet	Oral	02120000	5376469
+1130141000033111	42379811000001108	Pravastatin 10mg tablets	Pravastatin 10mg tablets	Pravastatin sodium	10.000mg	Tablet/ Oral Tablet	Oral	02120000	4439003
+2891641000033112	42297311000001108	Rosuvastatin 20mg tablets	Rosuvastatin 20mg tablets	Rosuvastatin calcium	20.000mg	Tablet/ Oral Tablet	Oral	02120000	3460959
+2066241000033118	42297711000001107	Simvastatin 80mg tablets	Simvastatin 80mg tablets	Simvastatin	80.000mg	Tablet/ Oral Tablet	Oral	02120000	2527102
+2974141000033115	4896711000001108	Simvador 40mg tablets (Dexcel-Pharma Ltd)	Simvador 40mg tablets	Simvastatin	40.000mg	Tablet/ Oral Tablet	Oral		1469592
+578741000033117	39693111000001107	Fluvastatin 40mg capsules	Fluvastatin 40mg capsules	Fluvastatin sodium	40.000mg	Capsule/ Oral capsule	Oral	02120000	1033620
+578641000033114	39693011000001106	Fluvastatin 20mg capsules	Fluvastatin 20mg capsules	Fluvastatin sodium	20.000mg	Capsule/ Oral capsule	Oral	02120000	929687
+2891741000033115	42297411000001101	Rosuvastatin 40mg tablets	Rosuvastatin 40mg tablets	Rosuvastatin calcium	40.000mg	Tablet/ Oral Tablet	Oral	02120000	791146
+2974041000033119	4896511000001103	Simvador 20mg tablets (Dexcel-Pharma Ltd)	Simvador 20mg tablets	Simvastatin	20.000mg	Tablet/ Oral Tablet	Oral		730764
+1562841000033119	108111000001106	Zocor 10mg tablets (Organon Pharma (UK) Ltd)	Zocor 10mg tablets	Simvastatin	10.000mg	Tablet/ Oral Tablet	Oral		380826
+836241000033113	643911000001108	Lipitor 10mg tablets (Viatris UK Healthcare Ltd)	Lipitor 10mg tablets	Atorvastatin calcium trihydrate	10.000mg	Tablet/ Oral Tablet	Oral		350041
+2189041000033110	36566411000001105	Fluvastatin 80mg modified-release tablets	Fluvastatin 80mg modified-release tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral	02120000	325257
+233741000033115	42373111000001104	Cerivastatin 100microgram tablets	Cerivastatin 100microgram tablets	Cerivastatin sodium	100.000microgram	Tablet/ Oral Tablet	Oral	02120000	288993
+3292541000033115	42382211000001108	Simvastatin 40mg / Ezetimibe 10mg tablets	Simvastatin 40mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 40.000mg	Tablet/ Oral Tablet	Oral	02120000	271575
+836341000033115	232011000001102	Lipitor 20mg tablets (Viatris UK Healthcare Ltd)	Lipitor 20mg tablets	Atorvastatin calcium trihydrate	20.000mg	Tablet/ Oral Tablet	Oral		243300
+1562941000033110	776811000001104	Zocor 20mg tablets (Organon Pharma (UK) Ltd)	Zocor 20mg tablets	Simvastatin	20.000mg	Tablet/ Oral Tablet	Oral		184085
+2891841000033113	4171011000001104	Crestor 10mg tablets (AstraZeneca UK Ltd)	Crestor 10mg tablets	Rosuvastatin calcium	10.000mg	Tablet/ Oral Tablet	Oral		165285
+233841000033113	42373211000001105	Cerivastatin 200microgram tablets	Cerivastatin 200microgram tablets	Cerivastatin sodium	200.000microgram	Tablet/ Oral Tablet	Oral	02120000	161032
+834841000033118	802411000001108	Lipostat 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lipostat 10mg tablets	Pravastatin sodium	10.000mg	Tablet/ Oral Tablet	Oral		145405
+836441000033114	484211000001108	Lipitor 40mg tablets (Viatris UK Healthcare Ltd)	Lipitor 40mg tablets	Atorvastatin calcium trihydrate	40.000mg	Tablet/ Oral Tablet	Oral		139748
+2973941000033116	4896211000001101	Simvador 10mg tablets (Dexcel-Pharma Ltd)	Simvador 10mg tablets	Simvastatin	10.000mg	Tablet/ Oral Tablet	Oral		133342
+3292441000033116	42382011000001103	Simvastatin 20mg / Ezetimibe 10mg tablets	Simvastatin 20mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 20.000mg	Tablet/ Oral Tablet	Oral	02120000	112488
+834941000033114	454111000001107	Lipostat 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lipostat 20mg tablets	Pravastatin sodium	20.000mg	Tablet/ Oral Tablet	Oral		97661
+1916841000033114	42373411000001109	Cerivastatin 400microgram tablets	Cerivastatin 400microgram tablets	Cerivastatin sodium	400.000microgram	Tablet/ Oral Tablet	Oral	02120000	78767
+6468841000033114	19722511000001105	Atorvastatin 20mg chewable tablets sugar free	Atorvastatin 20mg chewable tablets sugar free	Atorvastatin calcium trihydrate	20.000mg	Chewable tablet	Oral	02120000	70219
+3836141000033113	9747511000001107	Crestor 5mg tablets (AstraZeneca UK Ltd)	Crestor 5mg tablets	Rosuvastatin calcium	5.000mg	Tablet/ Oral Tablet	Oral		54218
+836541000033110	535011000001102	Lipostat 40mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	Lipostat 40mg tablets	Pravastatin sodium	40.000mg	Tablet/ Oral Tablet	Oral		52460
+3292641000033119	42297611000001103	Simvastatin 80mg / Ezetimibe 10mg tablets	Simvastatin 80mg / Ezetimibe 10mg tablets	Ezetimibe/ Simvastatin	10.000mg + 80.000mg	Tablet/ Oral Tablet	Oral	02120000	47136
+1562241000033118	859611000001107	Zocor 40mg tablets (Organon Pharma (UK) Ltd)	Zocor 40mg tablets	Simvastatin	40.000mg	Tablet/ Oral Tablet	Oral		46622
+233941000033117	42373311000001102	Cerivastatin 300microgram tablets	Cerivastatin 300microgram tablets	Cerivastatin sodium	300.000microgram	Tablet/ Oral Tablet	Oral	02120000	44871
+2891941000033117	4171311000001101	Crestor 20mg tablets (AstraZeneca UK Ltd)	Crestor 20mg tablets	Rosuvastatin calcium	20.000mg	Tablet/ Oral Tablet	Oral		40454
+2261141000033113	756111000001109	Lipitor 80mg tablets (Viatris UK Healthcare Ltd)	Lipitor 80mg tablets	Atorvastatin calcium trihydrate	80.000mg	Tablet/ Oral Tablet	Oral		37848
+819941000033119	84811000001104	Lescol 20mg capsules (Novartis Pharmaceuticals UK Ltd)	Lescol 20mg capsules	Fluvastatin sodium	20.000mg	Capsule/ Oral capsule	Oral		34066
+6468641000033113	19722411000001106	Atorvastatin 10mg chewable tablets sugar free	Atorvastatin 10mg chewable tablets sugar free	Atorvastatin calcium trihydrate	10.000mg	Chewable tablet	Oral	02120000	26920
+820041000033116	409611000001108	Lescol 40mg capsules (Novartis Pharmaceuticals UK Ltd)	Lescol 40mg capsules	Fluvastatin sodium	40.000mg	Capsule/ Oral capsule	Oral		21634
+3292841000033118	9310311000001108	Inegy 10mg/40mg tablets (Organon Pharma (UK) Ltd)	Inegy 10mg/40mg tablets	Ezetimibe/ Simvastatin	10.000mg + 40.000mg	Tablet/ Oral Tablet	Oral		16486
+3292741000033111	9309911000001100	Inegy 10mg/20mg tablets (Organon Pharma (UK) Ltd)	Inegy 10mg/20mg tablets	Ezetimibe/ Simvastatin	10.000mg + 20.000mg	Tablet/ Oral Tablet	Oral		11856
+2189141000033114	378111000001106	Lescol XL 80mg tablets (Novartis Pharmaceuticals UK Ltd)	Lescol XL 80mg tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral		10183
+2892041000033111	4172111000001108	Crestor 40mg tablets (AstraZeneca UK Ltd)	Crestor 40mg tablets	Rosuvastatin calcium	40.000mg	Tablet/ Oral Tablet	Oral		6505
+4941641000033116	15158611000001106	Simvador 80mg tablets (Dexcel-Pharma Ltd)	Simvador 80mg tablets	Simvastatin	80.000mg	Tablet/ Oral Tablet	Oral		4096
+2066341000033111	113211000001106	Zocor 80mg tablets (Organon Pharma (UK) Ltd)	Zocor 80mg tablets	Simvastatin	80.000mg	Tablet/ Oral Tablet	Oral		3081
+3292941000033114	9310611000001103	Inegy 10mg/80mg tablets (Organon Pharma (UK) Ltd)	Inegy 10mg/80mg tablets	Ezetimibe/ Simvastatin	10.000mg + 80.000mg	Tablet/ Oral Tablet	Oral		2731
+2290041000033115	42373511000001108	Cerivastatin 800microgram tablets	Cerivastatin 800microgram tablets	Cerivastatin sodium	800.000microgram	Tablet/ Oral Tablet	Oral	02120000	168
+3140841000033113	7630211000001106	Ranzolont 10mg tablets (Sun Pharma UK Ltd)	Ranzolont 10mg tablets	Simvastatin	10.000mg	Tablet/ Oral Tablet	Oral		3
+3868741000033118	14018311000001109	Atorvastatin 20mg/5ml oral suspension	Atorvastatin 20mg/5ml oral suspension	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral suspension	Oral	02120000	5460
+5897741000033110	14158711000001109	Atorvastatin 10mg/5ml oral suspension	Atorvastatin 10mg/5ml oral suspension	Atorvastatin calcium trihydrate	2.000mg/1.000ml	Oral suspension	Oral	02120000	315
+5897841000033117	14158611000001100	Atorvastatin 10mg/5ml oral solution	Atorvastatin 10mg/5ml oral solution	Atorvastatin calcium trihydrate	2.000mg/1.000ml	Oral solution	Oral	02120000	1343
+5990541000033112	14018211000001101	Atorvastatin 20mg/5ml oral solution	Atorvastatin 20mg/5ml oral solution	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral solution	Oral	02120000	1811
+6469041000033110	19719311000001104	Lipitor 10mg chewable tablets (Viatris UK Healthcare Ltd)	Lipitor 10mg chewable tablets	Atorvastatin calcium trihydrate	10.000mg	Chewable tablet	Oral		2202
+6469141000033114	19719611000001109	Lipitor 20mg chewable tablets (Viatris UK Healthcare Ltd)	Lipitor 20mg chewable tablets	Atorvastatin calcium trihydrate	20.000mg	Chewable tablet	Oral		3753
+7861441000033110	20528511000001106	Atorvastatin 30mg tablets	Atorvastatin 30mg tablets	Atorvastatin calcium trihydrate	30.000mg	Tablet/ Oral Tablet	Oral	02120000	30958
+7861541000033111	20528611000001105	Atorvastatin 60mg tablets	Atorvastatin 60mg tablets	Atorvastatin calcium trihydrate	60.000mg	Tablet/ Oral Tablet	Oral	02120000	67825
+14021741000033118	40573211000001102	Atorvastatin 20mg/5ml oral suspension sugar free	Atorvastatin 20mg/5ml oral suspension sugar free	Atorvastatin calcium trihydrate	4.000mg/1.000ml	Oral suspension	Oral	02120000	5466
+836641000033111	4535911000001106	Lipobay 100microgram tablets (Bayer Plc)	Lipobay 100microgram tablets	Cerivastatin sodium	100.000microgram	Tablet/ Oral Tablet	Oral		30257
+836741000033119	4537511000001108	Lipobay 200microgram tablets (Bayer Plc)	Lipobay 200microgram tablets	Cerivastatin sodium	200.000microgram	Tablet/ Oral Tablet	Oral		10874
+836841000033112	4566311000001105	Lipobay 300microgram tablets (Bayer Plc)	Lipobay 300microgram tablets	Cerivastatin sodium	300.000microgram	Tablet/ Oral Tablet	Oral		2974
+1916741000033116	4538111000001103	Lipobay 400microgram tablets (Bayer Plc)	Lipobay 400microgram tablets	Cerivastatin sodium	400.000microgram	Tablet/ Oral Tablet	Oral		1777
+2290141000033116	4568511000001103	Lipobay 800microgram tablets (Bayer Plc)	Lipobay 800microgram tablets	Cerivastatin sodium	800.000microgram	Tablet/ Oral Tablet	Oral		1
+3140941000033117	7631911000001109	Ranzolont 20mg tablets (Sun Pharma UK Ltd)	Ranzolont 20mg tablets	Simvastatin	20.000mg	Tablet/ Oral Tablet	Oral		9
+3141041000033110	7632811000001108	Ranzolont 40mg tablets (Sun Pharma UK Ltd)	Ranzolont 40mg tablets	Simvastatin	40.000mg	Tablet/ Oral Tablet	Oral		32
+3304141000033110	8722111000001104	Simvastatin 20mg/5ml oral suspension	Simvastatin 20mg/5ml oral suspension	Simvastatin	4.000mg/1.000ml	Oral suspension	Oral	02120000	18588
+4152341000033115	13894411000001106	Simvastatin 40mg/5ml oral suspension	Simvastatin 40mg/5ml oral suspension	Simvastatin	8.000mg/1.000ml	Oral suspension	Oral	02120000	9366
+5817741000033114	17369311000001105	Simvastatin 20mg/5ml oral suspension sugar free	Simvastatin 20mg/5ml oral suspension sugar free	Simvastatin	4.000mg/1.000ml	Oral suspension	Oral	02120000	21044
+5817841000033116	17429811000001102	Simvastatin 40mg/5ml oral suspension sugar free	Simvastatin 40mg/5ml oral suspension sugar free	Simvastatin	8.000mg/1.000ml	Oral suspension	Oral	02120000	28399
+5888441000033115	13894211000001107	Simvastatin 20mg/5ml oral solution	Simvastatin 20mg/5ml oral solution	Simvastatin	4.000mg/1.000ml	Oral solution	Oral	02120000	5
+5888541000033119	13894311000001104	Simvastatin 40mg/5ml oral solution	Simvastatin 40mg/5ml oral solution	Simvastatin	8.000mg/1.000ml	Oral solution	Oral	02120000	126
+5007141000033112	15364211000001102	Luvinsta XL 80mg tablets (Actavis UK Ltd)	Luvinsta XL 80mg tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral		38
+5711841000033112	17282011000001107	Dorisin XL 80mg tablets (Aspire Pharma Ltd)	Dorisin XL 80mg tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral		15
+8962441000033117	23864311000001100	Nandovar XL 80mg tablets (Sandoz Ltd)	Nandovar XL 80mg tablets	Fluvastatin sodium	80.000mg	Modified-release tablet	Oral		2
+5711041000033117	15534511000001107	Pravastatin 40mg/5ml oral suspension	Pravastatin 40mg/5ml oral suspension	Pravastatin sodium	8.000mg/1.000ml	Oral suspension	Oral	02120000	420
+8493841000033111	14957711000001105	Pravastatin 5mg/5ml oral solution	Pravastatin 5mg/5ml oral solution	Pravastatin sodium	1.000mg/1.000ml	Oral solution	Oral	02120000	55
+10618641000033118	14957811000001102	Pravastatin 5mg/5ml oral suspension	Pravastatin 5mg/5ml oral suspension	Pravastatin sodium	1.000mg/1.000ml	Oral suspension	Oral	02120000	93
+13860741000033115	39832611000001106	Rosuvastatin 5mg capsules	Rosuvastatin 5mg capsules	Rosuvastatin calcium	5.000mg	Capsule/ Oral capsule	Oral	02120000	7750
+13860841000033113	39832311000001101	Rosuvastatin 10mg capsules	Rosuvastatin 10mg capsules	Rosuvastatin calcium	10.000mg	Capsule/ Oral capsule	Oral	02120000	6925
+13860941000033117	39832411000001108	Rosuvastatin 20mg capsules	Rosuvastatin 20mg capsules	Rosuvastatin calcium	20.000mg	Capsule/ Oral capsule	Oral	02120000	6101
+13861041000033110	39832511000001107	Rosuvastatin 40mg capsules	Rosuvastatin 40mg capsules	Rosuvastatin calcium	40.000mg	Capsule/ Oral capsule	Oral	02120000	2197
+14079441000033111	40917211000001108	Rosuvastatin 15mg tablets	Rosuvastatin 15mg tablets	Rosuvastatin calcium	15.000mg	Tablet/ Oral Tablet	Oral	02120000	7708
+14079541000033112	40917311000001100	Rosuvastatin 30mg tablets	Rosuvastatin 30mg tablets	Rosuvastatin calcium	30.000mg	Tablet/ Oral Tablet	Oral	02120000	2521
+14944641000033117	45077511000001102	Rosuvastatin 10mg/5ml oral solution sugar free	Rosuvastatin 10mg/5ml oral solution sugar free	Rosuvastatin calcium	2.000mg/1.000ml	Oral solution	Oral		4
+11241941000033116	32170911000001100	Cholib 145mg/20mg tablets (Viatris UK Healthcare Ltd)	Cholib 145mg/20mg tablets	Fenofibrate/ Simvastatin	145.000mg + 20.000mg	Tablet/ Oral Tablet	Oral		7
+11241741000033119	32234211000001101	Fenofibrate 145mg / Simvastatin 20mg tablets	Fenofibrate 145mg / Simvastatin 20mg tablets	Fenofibrate/ Simvastatin	145.000mg + 20.000mg	Tablet/ Oral Tablet	Oral	02120000	196
+11241841000033112	32234311000001109	Fenofibrate 145mg / Simvastatin 40mg tablets	Fenofibrate 145mg / Simvastatin 40mg tablets	Fenofibrate/ Simvastatin	145.000mg + 40.000mg	Tablet/ Oral Tablet	Oral	02120000	117

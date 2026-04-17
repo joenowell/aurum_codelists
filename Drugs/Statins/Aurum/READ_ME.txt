@@ -1,0 +1,2 @@
+Statin codelist developed based on Reeves et al. (2024) codelist on HDR UK, and CPRD search terms including of BNF code: 0212000*, term/drugsubstance name "Atorvastatin*", "Cerivastatin*", "Simvastatin*", "Rosuvastatin*", "Pravastatin*", and "Fluvastatin*".
+Final code list "Statins_my_edit" and one used for analysis "statin.csv"

@@ -1,0 +1,22 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+397694017	4368864	12C2	12C2.00	FH: Ischaemic heart dis. <60	266895004	397694017	7
+1780270012	48682	12CL	12CL.00	FH: Angina in 1st degree female relative <65 years	401065001	1780270012	7
+1780271011	48159	12CN	12CN.00	Family history of myocardial infarct in first degree female relative less than 65 years of age	401066000	2839705011	7
+1780272016	191470	12CP	12CP.00	FH: Myocardial infarct in 1st degree male relative <55 years	401067009	1780272016	7
+1780323013	93440	12CM	12CM.00	FH: Angina in 1st degree male relative <55 years	401122004	1780323013	7
+217371000000119	119236	12C2-1	12C2.11	FH: Myocardial infarction < 60	275122004	411054019	7
+217381000000117	133958	12C2-2	12C2.12	FH: Myocardial infarction at less than 60	275122004	411054019	7
+217391000000115	63799	12C2-3	12C2.13	FH: Angina at less than 60 years	275932007	411905011	7
+1676931000006119	140760	12CV	12CV.00	Family history of cardiovascular disease in first degree male relative less than 55 years of age	439724007	2792404010	7
+1676941000006112	199198	12CW	12CW.00	Family history of cardiovascular disease in first degree female relative less than 65 years of age	438825005	2794956014	7
+5495411000006118	176868	^ESCTFH549541		FH: Ischaemic heart disease at less than 60 years	266895004	397695016	7
+5495431000006112	64	^ESCTFH549543		FH: Ischemic heart disease at less than 60 years	266895004	397696015	7
+5495441000006119	4	^ESCTFA549544		Family history: Ischemic heart disease at less than 60 years	266895004	2669637014	7
+5495451000006117	27	^ESCTFA549545		Family history: Ischaemic heart disease at less than 60 years	266895004	2838291017	7
+5569681000006115	7	^ESCTFA556968		Family history: Myocardial infarction at less than 60	275122004	2669866014	7
+1669601000006118	833	EMISNQFH7		FH: Cardiovascular dis. in 1st degree female relative < 65 years	1669601000006102	1669601000006118	7
+1669611000006115	437	EMISNQFH8		FH: Cardiovascular disease 1st degree male relative < 55 years	1669611000006104	1669611000006115	7
+8193701000006115	1449	^ESCTFA819370		Family history of myocardial infarction in first degree relative less than 60 years	515741000000106	1148521000000117	7
+6648121000006117	1	^ESCTFA664812		Family history: Myocardial infarct in 1st degree male relative <55 years	401067009	1787436011	7
+216245011	61059	12CI	12CI.00	FH: premature coronary heart disease	134439009	216245011	7
+4507431000006118	21	^ESCTFA450743		Family history: premature coronary heart disease	134439009	2664552011	7
