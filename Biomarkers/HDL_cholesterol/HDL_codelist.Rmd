@@ -1,0 +1,29 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+hdl <- data.frame(
+  medcodeid = c(
+    "259232010",
+    "8385731000006118",
+    "458313013",
+    "259242012",
+    "259243019",
+    "259564016",
+    "259567011",
+    "12622291000006110",
+    "12622321000006118"
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(hdl, "hdl.csv", row.names = FALSE)
+
+
+```
+

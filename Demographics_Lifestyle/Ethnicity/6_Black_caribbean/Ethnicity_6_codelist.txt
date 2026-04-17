@@ -1,0 +1,6 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+1968361000006117	603	9t1C	9t1C.00	Black or African or Caribbean or Black British: Caribbean - Northern Ireland ethnic category 2011 census	977811000000105	2487081000000117	22
+1968551000006110	368	9t2E	9t2E.00	Caribbean or Black: Caribbean, Caribbean Scottish or Caribbean British - Scotland ethnic category 2011 census	978271000000103	2488011000000113	22
+154401000000118	571044	9iB	9iB..00	Caribbean - ethnic category 2001 census	107691000000105	154401000000118	22
+514611000006111	238105	9S2	9S2..00	Black Caribbean	185988007	285930014	22
+1968191000006111	59671	9t0E	9t0E.00	Black or African or Caribbean or Black British: Caribbean - England and Wales ethnic category 2011 census	976911000000101	2485191000000111	22

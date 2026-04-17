@@ -1,0 +1,8 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+1564291000006119	1	EMISNQBA5		Bangladeshi	1564291000006103	1564291000006119	19
+1968501000006111	388	9t29	9t29.00	Asian or Asian Scottish or Asian British: Bangladeshi, Bangladeshi Scottish or Bangladeshi British - Scotland ethnic category 2011 census	978171000000105	2487801000000118	22
+196631000006117	2084	134I	134I.00	RACE: Bangladeshi	186003008	285956019	22
+285956019	89341	9S8	9S8..00	Bangladeshi	186003008	285956019	22
+1968321000006111	769	9t18	9t18.00	Asian or Asian British: Bangladeshi - Northern Ireland ethnic category 2011 census	977731000000108	2486921000000119	22
+937541000006115	692184	9i9	9i9..00	Bangladeshi or British Bangladeshi - ethnic category 2001 census	92471000000103	141371000000119	22
+1968151000006117	63125	9t0A	9t0A.00	Asian or Asian British: Bangladeshi - England and Wales ethnic category 2011 census	976831000000100	2485031000000111	22

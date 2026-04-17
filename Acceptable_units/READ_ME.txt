@@ -1,0 +1,1 @@
+Plausible biomarker ranges were derived from https://github.com/Exeter-Diabetes/CPRD-Codelists/blob/main/Medcodes/Biomarkers/biomarker_acceptable_limits.txt

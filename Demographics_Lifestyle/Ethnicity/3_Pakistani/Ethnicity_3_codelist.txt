@@ -1,0 +1,8 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+1968141000006119	190093	9t09	9t09.00	Asian or Asian British: Pakistani - England and Wales ethnic category 2011 census	976811000000108	2484991000000112	22
+141361000000114	1495853	9i8	9i8..00	Pakistani or British Pakistani - ethnic category 2001 census	92461000000105	141361000000114	22
+285955015	266254	9S7	9S7..00	Pakistani	186002003	285955015	22
+1565441000006111	1	EMISNQPA32		Pakistani	1565441000006107	1565441000006111	19
+1968311000006115	2083	9t17	9t17.00	Asian or Asian British: Pakistani - Northern Ireland ethnic category 2011 census	977711000000100	2486881000000113	22
+196721000006111	5511	134M	134M.00	RACE: Pakistani	186002003	285955015	22
+1968481000006118	1272	9t27	9t27.00	Asian or Asian Scottish or Asian British: Pakistani, Pakistani Scottish or Pakistani British - Scotland ethnic category 2011 census	978071000000106	2487601000000117	22

@@ -1,0 +1,16 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+1564491000006115	1	EMISNQCE3		Central African	1564491000006104	1564491000006115	19
+1968181000006113	277402	9t0D	9t0D.00	Black or African or Caribbean or Black British: African - England and Wales ethnic category 2011 census	976891000000104	2485151000000115	22
+285943014	4567	9S44	9S44.00	Black - other African country	185993005	285943014	22
+285971015	3910	9SA5	9SA5.00	Other African countries (NMO)	186010002	285971015	22
+4917081000006119	2	^ESCTCE491708		Central African Republic	223522008	336370018	37
+141391000000115	1765953	9iC	9iC..00	African - ethnic category 2001 census	92491000000104	141391000000115	22
+1968351000006119	2708	9t1B	9t1B.00	Black or African or Caribbean or Black British: African - Northern Ireland ethnic category 2011 census	977791000000109	2487041000000113	22
+250223019	76330	1342	1342.00	African origin	160514004	250223019	17
+1968531000006115	1614	9t2C	9t2C.00	African: African, African Scottish or African British - Scotland ethnic category 2011 census	978231000000100	2487931000000115	22
+1565711000006118	1	EMISNQSO9		South African	1565711000006102	1565711000006118	19
+1968541000006113	968	9t2D	9t2D.00	African: any other African - Scotland ethnic category 2011 census	978251000000107	2487971000000118	22
+30683015	638657	9S3	9S3..00	Black African	18167009	30683015	22
+1968201000006114	41601	9t0F	9t0F.00	Black or African or Caribbean or Black British: other Black or African or Caribbean background - England and Wales ethnic category 2011 census	976931000000109	2485231000000119	22
+1968371000006112	1205	9t1D	9t1D.00	Black or African or Caribbean or Black British: other Black or African or Caribbean background - Northern Ireland ethnic category 2011 census	977831000000102	2487121000000119	22
+1968561000006112	445	9t2F	9t2F.00	Caribbean or Black: Black, Black Scottish or Black British - Scotland ethnic category 2011 census	978341000000102	2488181000000119	22

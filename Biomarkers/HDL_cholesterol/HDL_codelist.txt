@@ -1,0 +1,10 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+259232010	100702569	44P5	44P5.00	Serum high density lipoprotein cholesterol level	1005681000000107	2577901000000110	34
+8385731000006118	8715	^ESCTSE838573		Serum HDL (high density lipoprotein) cholesterol level	1005681000000107	2607231000000110	34
+458313013	4101307	44dA	44dA.00	Plasma HDL (high density lipoprotein) cholesterol level	1010581000000101	2557051000000110	34
+259242012	317966	44PB	44PB.00	Serum fasting HDL (high density lipoprotein) cholesterol level	1026451000000102	2599931000000119	34
+259243019	192140	44PC	44PC.00	Serum random HDL (high density lipoprotein) cholesterol level	1026461000000104	2599971000000117	34
+259564016	31171	44d2	44d2.00	Plasma random HDL (high density lipoprotein) cholesterol level	1028831000000106	2600041000000114	34
+259567011	79784	44d3	44d3.00	Plasma fasting HDL (high density lipoprotein) cholesterol level	1028841000000102	2600031000000117	34
+12622291000006110	91	^ESCT1262229		HDL (high density lipoprotein) cholesterol substance concentration in plasma	1107661000000104	2771751000000118	34
+12622321000006118	1646	^ESCT1262232		HDL (high density lipoprotein) cholesterol substance concentration in serum	1107681000000108	2771791000000114	34

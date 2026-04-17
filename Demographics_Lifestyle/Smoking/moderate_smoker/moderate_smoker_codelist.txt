@@ -1,0 +1,5 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+854981000006117	5452	EGTONGR12		Grade C moderate smoker (11-20/day)	854981000006101	854981000006117	3
+700121000006118	4164450	1374	1374.00	Moderate cigarette smoker (10-19 cigs/day)	160604004	250359011	17
+108938018	29338558	137P	137P.00	Cigarette smoker	65568007	108938018	17
+3419101000006116	2658	^ESCTMO341910		Moderate smoker (20 or less per day)	56578002	94089011	17

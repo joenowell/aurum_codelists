@@ -1,0 +1,25 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+moderate_smoker <- data.frame(
+  medcodeid = c(
+    "854981000006117",
+    "700121000006118",
+    "108938018",
+    "3419101000006116"
+
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(moderate_smoker, "moderate_smoker.csv", row.names = FALSE)
+
+
+```
+

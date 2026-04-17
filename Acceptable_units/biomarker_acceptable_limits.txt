@@ -1,0 +1,6 @@
+biomarker	units	lower_limit	upper_limit
+hdl	mmol	0.2	10
+height	cm	60	225
+sbp	mmHg	40	270
+totalcholesterol	mmol	0.5	20
+weight	Kg	40	350

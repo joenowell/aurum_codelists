@@ -1,0 +1,28 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+ethnicity_4 <- data.frame(
+  medcodeid = c(
+    "1564291000006119",
+    "1968501000006111",
+    "196631000006117",
+    "285956019",
+    "1968321000006111",
+    "937541000006115",
+    "1968151000006117"
+
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(ethnicity_4, "ethnicity_4.csv", row.names = FALSE)
+
+
+```
+

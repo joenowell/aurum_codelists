@@ -1,0 +1,8 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+141401000000117	876501	9iE	9iE..00	Chinese - ethnic category 2001 census	92511000000107	141401000000117	22
+1968161000006115	97942	9t0B	9t0B.00	Asian or Asian British: Chinese - England and Wales ethnic category 2011 census	976851000000107	2485071000000113	22
+1968331000006114	710	9t19	9t19.00	Asian or Asian British: Chinese - Northern Ireland ethnic category 2011 census	977751000000101	2486961000000110	22
+1968511000006114	185	9t2A	9t2A.00	Asian or Asian Scottish or Asian British: Chinese - Scotland ethnic category 2011 census	978191000000109	2487851000000117	22
+56590016	135567	9S9	9S9..00	Chinese	33897005	56590016	22
+196651000006112	6108	134D	134D.00	RACE: Chinese	33897005	56590016	22
+550541000006110	9197	9T1C	9T1C.00	Chinese	33897005	56590016	22

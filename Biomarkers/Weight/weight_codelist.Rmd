@@ -1,0 +1,30 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+weight <- data.frame(
+  medcodeid = c(
+    "253677014",
+    "11905011000006114",
+    "253688015",
+    "13638231000006115",
+    "6251151000006116",
+    "4551811000006113",
+    "3514400010",
+    "2934311000006118",
+    "7037161000006118"
+
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(weight, "weight.csv", row.names = FALSE)
+
+
+```
+

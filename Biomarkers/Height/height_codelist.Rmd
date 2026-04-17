@@ -1,0 +1,28 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+height <- data.frame(
+  medcodeid = c(
+    "253669010",
+    "11905141000006112",
+    "253676017",
+    "3315721000006119",
+    "3315711000006110",
+    "5256071000006119",
+    "4551671000006115",
+    "2729021000006118"
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(height, "height.csv", row.names = FALSE)
+
+
+```
+
