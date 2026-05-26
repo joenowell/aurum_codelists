@@ -1,0 +1,26 @@
+icd10	dx
+I50	Heart failure
+I50.0 	Congestive heart failure
+I50.1 	Left ventricular failure
+I50.9	"Heart failure, unspecified"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

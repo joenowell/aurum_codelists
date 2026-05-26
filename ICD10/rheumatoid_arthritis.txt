@@ -1,0 +1,24 @@
+icd10	dx
+M05	Seropositive rheumatoid arthritis
+M05.0	Felty’s syndrome
+M05.1	Rheumatoid lung disease (Caplan’s syndrome)
+M05.2	Rheumatoid vasculitis
+M05.3	Rheumatoid arthritis with involvement of other organs or systems
+M05.8	Other seropositive rheumatoid arthritis
+M05.9	"Seropositive rheumatoid arthritis, unspecified"
+M06 	Other rheumatoid arthritis
+M06.0	Seronegative rheumatoid arthritis
+M06.1	Adult-onset Still’s disease
+M06.2	Rheumatoid bursitis
+M06.3	Rheumatoid nodule
+M06.4	Inflammatory polyarthropathy
+M06.8	Other specified rheumatoid arthritis
+M06.9	"Rheumatoid arthritis, unspecified"
+	
+	
+	
+	
+	
+	
+	
+	

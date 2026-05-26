@@ -1,0 +1,8 @@
+icd10	dx
+N18.3	"Chronic kidney disease, stage 3"
+N18.4	"Chronic kidney disease, stage 4"
+N18.5	"Chronic kidney disease, stage 5"
+	
+	
+	
+	

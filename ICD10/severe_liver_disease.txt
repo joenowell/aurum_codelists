@@ -1,0 +1,24 @@
+icd10	dx	
+K74.3	Primary biliary cholangitis	
+K74.4	Secondary biliary cirrhosis	
+K74.5	"Biliary cirrhosis, unspecified"	
+K74.6	Other and unspecified cirrhosis of liver	
+K70.3	Alcoholic cirrhosis of liver	
+K70.4	Alcoholic hepatic failure	
+K72.0	Acute and subacute hepatic failure	
+K72.1	Chronic hepatic failure	
+K72.9	"Hepatic failure, unspecified"	
+K76.6	Portal hypertension	
+I85.0	Oesophageal varices with bleeding	
+I85.9	Oesophageal varices without bleeding	
+I86.4	Gastric varices	
+R18	Ascites	
+K76.7	Hepatorenal syndrome	
+K76.82	Hepatic encephalopathy	
+		
+		
+		
+		
+		
+		
+		

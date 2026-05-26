@@ -1,0 +1,14 @@
+icd10	dx
+J42 	Unspecified chronic bronchitis
+J43 	Emphysema
+J43.0	MacLeod's syndrome
+J43.1	Panlobular emphysema
+J43.2	Centrilobular emphysema
+J43.8	Other emphysema
+J43.9	"Emphysema, unspecified"
+J44	Other chronic obstructive pulmonary disease
+J44.0	COPD with acute lower respiratory infection
+J44.1	COPD with acute exacerbation
+J44.8	Other specified COPD
+J44.9 	"COPD, unspecified"
+	

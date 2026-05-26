@@ -1,0 +1,26 @@
+icd10	dx
+I70.2*	Atherosclerosis of arteries of extremities
+I73.9	"Peripheral vascular disease, unspecified"
+I73.1	Thromboangiitis obliterans
+I74.3 	Embolism and thrombosis of arteries of lower extremities
+I74.4	Embolism and thrombosis of arteries of extremities
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

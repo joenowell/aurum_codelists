@@ -1,0 +1,33 @@
+icd10	dx	
+G45.0	Vertebro?basilar artery syndrome	
+G45.1	Carotid artery syndrome (hemispheric)	
+G45.2	Multiple and bilateral precerebral artery syndromes	
+G45.3	Amaurosis fugax	
+G45.8	Other transient cerebral ischaemic attacks	
+G45.9	"Transient cerebral ischaemic attack, unspecified"	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

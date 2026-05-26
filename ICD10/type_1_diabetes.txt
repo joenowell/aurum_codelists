@@ -1,0 +1,26 @@
+icd10	dx
+E10	Type 1 diabetes mellitus
+E10.0	Type 1 diabetes mellitus with coma
+E10.1	Type 1 diabetes mellitus with ketoacidosis
+E10.2	Type 1 diabetes mellitus with renal complications
+E10.3	Type 1 diabetes mellitus with ophthalmic complications
+E10.4	Type 1 diabetes mellitus with neurological complications
+E10.5	Type 1 diabetes mellitus with peripheral circulatory complications
+E10.6	Type 1 diabetes mellitus with other specified complications
+E10.7	Type 1 diabetes mellitus with multiple complications
+E10.8	Type 1 diabetes mellitus with unspecified complications
+E10.9	Type 1 diabetes mellitus without complications
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

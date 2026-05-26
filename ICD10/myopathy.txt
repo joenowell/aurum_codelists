@@ -1,0 +1,26 @@
+icd10	dx
+G72.0	Drug-induced myopathy
+G72.1	Alcoholic myopathy
+G72.2	Myopathy due to other toxic agents
+G72.8	Other specified myopathies
+G72.9	"Myopathy, unspecified"
+	
+M33	Dermatopolymyositis  
+M33.0	Juvenile dermatomyositis
+M33.1	Other dermatomyositis
+M33.2	Polymyositis
+M33.9	"Dermatopolymyositis, unspecified"
+	
+M60.1	Interstitial myositis
+M60.8	Other myositis
+M60.9	"Myositis, unspecified"
+	
+M62.82	Rhabdomyolysis
+	
+	
+	
+	
+	
+	
+	
+	
