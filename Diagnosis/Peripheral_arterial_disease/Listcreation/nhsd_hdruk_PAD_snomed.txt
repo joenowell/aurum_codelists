@@ -1,0 +1,77 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+235911000006116	730153	G73z	G73z.00	Peripheral vascular disease	400047006	1779317016	32
+105536013	650584	G73z0	G73z000	Intermittent claudication	63491006	105536013	32
+300515011	141806	G73zz	G73zz00	Peripheral vascular disease NOS	400047006	1779317016	32
+395791015	99945	G73	G73..00	Other peripheral vascular disease	400047006	1779317016	32
+411512011	78920	G73z0-1	G73z011	Claudication	63491006	3559347018	32
+13944841000006117	37666	^ESCT1394484		Peripheral arterial disease	840580004	3970952014	32
+742481000006118	36415	G73-2	G73..12	Ischaemic leg	233961000	350546015	32
+443199013	17688	G733	G733.00	Ischaemic foot	301755001	443199013	32
+350535018	15501	G73-1	G73..11	Peripheral ischaemic vascular disease	233958001	350535018	32
+5058071000006110	13966	^ESCTLO505807		Lower limb ischaemia	233961000	350544017	32
+350533013	11233	G73-3	G73..13	Peripheral ischaemia	233958001	350533013	32
+5058111000006119	8350	^ESCTCR505811		Critical lower limb ischaemia	233962007	350547012	32
+1847121000006114	6940	G734	G734.00	Peripheral arterial disease	399957001	1787050010	32
+6632221000006112	5787	^ESCTPE663222		Peripheral arterial occlusive disease	399957001	1779239017	32
+300514010	5177	G73yz	G73yz00	Other specified peripheral vascular disease NOS	400047006	1779317016	32
+302011	4045	G73y0	G73y000	Diabetic peripheral angiopathy	127014009	302011	32
+1715241000006112	1640	G73z0-2	G73z012	Vascular claudication	63491006	105536013	32
+300510018	1063	G73y	G73y.00	Other specified peripheral vascular disease	400047006	1779317016	32
+6021731000006115	964	^ESCTCR602173		Critical ischaemia of foot	312822006	456609017	32
+5886711000006111	906	^ESCTIS588671		Ischaemia of feet	300917007	442114010	32
+459308015	382	C10FF	C10FF00	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015	32
+300963017	277	Gyu74	Gyu7400	[X]Other specified peripheral vascular diseases	400047006	1779317016	32
+15060051000006112	262	^ESCT1506005		Ischaemic ulcer of right lower leg due to atherosclerotic disease	10664351000119101	5088902016	32
+13919651000006113	129	^ESCT1391965		Ulcer of heel due to atherosclerosis of artery of lower limb	792846001	3800183018	32
+5058121000006110	126	^ESCTCR505812		Critical lower limb ischemia	233962007	350548019	32
+4392221000006118	115	^ESCTPE439222		Peripheral angiopathy due to diabetes mellitus	127014009	3313388015	32
+7848701000006116	94	^ESCTAC784870		Acute occlusion of artery of lower limb co-occurrent and due to thromboembolus	723870003	3427336011	32
+5967911000006119	85	^ESCTTR596791		Trash foot	307406004	450662017	32
+280561000006111	85	C109F	C109F00	Non-insulin-dependent diabetes mellitus with peripheral angiopathy	314902007	459307013	32
+300511019	81	G73y1	G73y100	Peripheral angiopathic disease EC NOS	400047006	1779317016	32
+13944861000006118	77	^ESCT1394486		Peripheral artery disease	840580004	3970954010	32
+459306016	70	C10FF-1	C10FF11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016	32
+6633851000006110	64	^ESCTPV663385		PVD-peripheral vascular disease	400047006	2162392019	32
+15059991000006115	53	^ESCT1505999		Ischaemic ulcer of left lower leg due to atherosclerotic disease	10663991000119105	5088900012	32
+300970017	36	Gyu7A	Gyu7A00	[X]Peripheral angiopathy in diseases classified elsewhere	400047006	1779317016	32
+5058081000006113	33	^ESCTLO505808		Lower limb ischemia	233961000	350543011	32
+15059741000006114	30	^ESCT1505974		Ischaemic ulcer of toe of right foot due to atherosclerotic disease	10654151000119105	5089523010	32
+15059761000006113	28	^ESCT1505976		Ischaemic ulcer of left heel due to atherosclerotic disease	10655071000119103	5089307011	32
+913931000006116	28	C10EG	C10EG00	Type 1 diabetes mellitus with peripheral angiopathy	31211000119101	3315042015	32
+15059731000006116	24	^ESCT1505973		Ischaemic ulcer of toe of left foot due to atherosclerotic disease	10653951000119109	5089526019	32
+15059801000006116	20	^ESCT1505980		Ischaemic ulcer of right heel due to atherosclerotic disease	10655831000119106	5089290018	32
+84961000006116	19	C109F-1	C109F11	Type II diabetes mellitus with peripheral angiopathy	314902007	459306016	32
+13919691000006119	17	^ESCT1391969		Ulcer of ankle due to atherosclerosis of artery of lower limb	792850008	3800184012	32
+15059791000006117	15	^ESCT1505979		Ischaemic ulcer of right foot due to atherosclerotic disease	10655671000119105	5089521012	32
+6021741000006113	14	^ESCTCR602174		Critical ischemia of foot	312822006	456610010	32
+15060131000006116	13	^ESCT1506013		Ischaemic ulcer of left ankle due to atherosclerotic disease	10665871000119100	5089300013	32
+12122231000006112	13	^ESCT1212223		Bilateral lower limb atherosclerosis pain at rest co-occurrent and due to atherosclerosis	12236991000119103	3644932011	32
+5058091000006111	12	^ESCTIS505809		Ischemic leg	233961000	350545016	32
+5898341000006114	11	^ESCTIS589834		Ischemic foot	301755001	443198017	32
+13919631000006118	11	^ESCT1391963		Limb pain at rest due to atherosclerosis of artery of lower limb	792844003	3800138019	32
+84591000006119	8	C109F-2	C109F12	Type 2 diabetes mellitus with peripheral angiopathy	314902007	459308015	32
+9478171000006111	7	^ESCTPA947817		Pain at rest of left lower limb co-occurrent and due to atherosclerosis	12237111000119107	3323420013	32
+9837051000006111	6	^ESCTGA983705		Gangrene of right lower limb due to atherosclerosis	15649901000119104	3322932014	32
+8015271000006112	6	^ESCTPE801527		Peripheral vascular disease associated with another disorder	34881000119105	2983756012	32
+913941000006114	5	C10EG-1	C10EG11	Peripheral angiopathy due to type 1 diabetes mellitus	31211000119101	3315042015	32
+6632271000006113	5	^ESCTPE663227		Peripheral artery occlusive disease	399957001	2923309015	32
+13944851000006115	5	^ESCT1394485		Peripheral arterial vascular disease	840580004	3970777019	32
+15059751000006111	4	^ESCT1505975		Ischaemic ulcer of left foot due to atherosclerotic disease	10654871000119108	5089512011	32
+15328221000006116	4	^ESCT1532822		Bilateral lower limb pain at rest due to atherosclerosis	12236991000119103	5243440011	32
+4392201000006111	4	^ESCTDI439220		Diabetic peripheral vascular disease	127014009	205224017	32
+9837071000006118	4	^ESCTGA983707		Gangrene of left lower limb due to atherosclerosis	15649991000119105	3322928015	32
+12125761000006117	3	^ESCT1212576		Bilateral atherosclerosis of lower limbs with gangrene	15649941000119102	3646086019	32
+6632231000006110	3	^ESCTPA663223		PAOD - Peripheral arterial occlusive disease	399957001	1787049010	32
+3532661000006118	3	^ESCTIC353266		IC - Intermittent claudication	63491006	1232467011	32
+15060011000006111	2	^ESCT1506001		Ischaemic ulcer of left calf due to atherosclerotic disease	10664071000119107	5089317018	32
+15060071000006119	2	^ESCT1506007		Ischaemic ulcer of right ankle due to atherosclerotic disease	10664951000119102	5089311017	32
+9478201000006110	2	^ESCTPA947820		Pain at rest of right lower limb co-occurrent and due to atherosclerosis	12237231000119107	3323426019	32
+5058001000006116	2	^ESCTPE505800		Peripheral ischemia	233958001	350536017	32
+84781000006112	2	C108G-1	C108G11	Type I diabetes mellitus with peripheral angiopathy	31211000119101	3315042015	32
+6632251000006115	2	^ESCTPE663225		Peripheral angiopathy	399957001	1787051014	32
+15059781000006115	1	^ESCT1505978		Ischaemic ulcer of left midfoot due to atherosclerotic disease	10655271000119108	5089514012	32
+15059821000006114	1	^ESCT1505982		Ischaemic ulcer of right midfoot due to atherosclerotic disease	10656031000119109	5089507010	32
+15328261000006110	1	^ESCT1532826		Pain at rest of left lower limb due to atherosclerosis	12237111000119107	5243435015	32
+15328281000006117	1	^ESCT1532828		Pain at rest of right lower limb due to atherosclerosis	12237231000119107	5243437011	32
+5057981000006111	1	^ESCTPE505798		Peripheral ischemic vascular disease	233958001	350534019	32
+13919781000006111	1	^ESCT1391978		Ulcer of calf due to atherosclerosis of artery of lower limb	792855003	3800175012	32

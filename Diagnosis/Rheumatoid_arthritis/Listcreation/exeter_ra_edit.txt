@@ -1,0 +1,103 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId		Consider
+424981000006114	26	Nyu10	Nyu1000	[X]Rheumatoid arthritis+involvement/other organs or systems	239793008	359293019	32	#N/A	1
+5141321000006110	15	^ESCTAD514132		Adult onset Still disease	239920006	2839647016	32	#N/A	1
+463281000006113	10488	N005	N005.00	Adult onset Still's disease	239920006	359482019	32	#N/A	1
+463301000006112	3301	N04y2	N04y200	Adult-onset Still's disease	239920006	359482019	32	#N/A	1
+14011041000006114	79	^ESCT1401104		Bilateral deformity of hands due to rheumatoid arthritis	15744441000119101	3778668016	32	#N/A	1
+13709511000006115	38	^ESCT1370951		Bilateral rheumatoid arthritis of feet	15686281000119101	3773909010	32	#N/A	1
+13709571000006112	56	^ESCT1370957		Bilateral rheumatoid arthritis of hands	15687321000119109	3773912013	32	#N/A	1
+13709541000006116	106	^ESCT1370954		Bilateral rheumatoid arthritis of knees	15687201000119107	3773916011	32	#N/A	1
+3527061011	8	^ESCT1171333		Deformity of left foot co-occurrent and due to rheumatoid arthritis	1073891000119106	3527061011	32	#N/A	1
+3527712017	8	^ESCT1171331		Deformity of left hand co-occurrent and due to rheumatoid arthritis	1073871000119105	3527712017	32	#N/A	1
+3527731011	10	^ESCT1171332		Deformity of right foot co-occurrent and due to rheumatoid arthritis	1073881000119108	3527731011	32	#N/A	1
+3527737010	8	^ESCT1171330		Deformity of right hand co-occurrent and due to rheumatoid arthritis	1073861000119104	3527737010	32	#N/A	1
+2670341000006112	103	^ESCTDI267034		Diffuse interstitial rheumatoid disease of lung	10713006	18610015	32	#N/A	1
+3514955016	7	^ESCT1165709		Erosion of joint surface co-occurrent and due to rheumatoid arthritis	735599007	3514955016	32	#N/A	1
+3428911000006119	1	^ESCTFE342891		Felty syndrome	57160007	2838764018	32	#N/A	1
+3636541000006112	35	^ESCTRA363654		RA - Rheumatoid arthritis	69896004	1233202011	32	#N/A	1
+3636561000006111	1	^ESCTRH363656		RhA - Rheumatoid arthritis	69896004	1233204012	32	#N/A	1
+889751000006116	299	N040-92	N040.92	Rheum. arth. - ankle/foot	69896004	8.89751E+14	32	#N/A	1
+989331000006117	1	N040F-99	N040F99	Rheum. arth. - ankle/foot	201779000	9.89331E+14	32	#N/A	1
+889801000006111	50	N040-97	N040.97	Rheum. arth. - elbow joint	69896004	8.89801E+14	32	#N/A	1
+889781000006112	929	N040-95	N040.95	Rheum. arth. - hand joint	69896004	8.89781E+14	32	#N/A	1
+989301000006113	3	N0408-99	N040899	Rheum. arth. - hand joint	201772009	9.89301E+14	32	#N/A	1
+889771000006114	94	N040-94	N040.94	Rheum. arth. - hip joint	69896004	8.89771E+14	32	#N/A	1
+989311000006111	1	N040B-99	N040B99	Rheum. arth. - hip joint	201775006	9.89311E+14	32	#N/A	1
+889761000006119	611	N040-93	N040.93	Rheum. arth. - knee joint	69896004	8.89761E+14	32	#N/A	1
+989321000006115	1	N040D-99	N040D99	Rheum. arth. - knee joint	201777003	9.89321E+14	32	#N/A	1
+889821000006118	8774	N040-99	N040.99	Rheum. arth. - multiple joint	69896004	8.89821E+14	32	#N/A	1
+889741000006118	53	N040-91	N040.91	Rheum. arth. - other joint	69896004	8.89741E+14	32	#N/A	1
+889811000006114	81	N040-98	N040.98	Rheum. arth. - shoulder joint	69896004	8.89811E+14	32	#N/A	1
+889791000006110	849	N040-96	N040.96	Rheum. arth. - wrist joint	69896004	8.89791E+14	32	#N/A	1
+989291000006112	4	N0407-99	N040799	Rheum. arth. - wrist joint	201771002	9.89291E+14	32	#N/A	1
+3636531000006119	1	^ESCTRH363653		Rheumatic gout	69896004	116085013	32	#N/A	1
+5721481000006110	48	^ESCTRH572148		Rheumatoid arthritis - ankle and/or foot	287008006	1489971016	32	#N/A	1
+5721451000006119	145	^ESCTRH572145		Rheumatoid arthritis - hand joint	287007001	426511016	32	#N/A	1
+889731000006111	15341	N040-90	N040.90	Rheumatoid arthritis NOS	69896004	8.89731E+14	32	#N/A	1
+13709561000006117	2	^ESCT1370956		Rheumatoid arthritis of bilateral knees	15687201000119107	3773915010	32	#N/A	1
+13709581000006110	5	^ESCT1370958		Rheumatoid arthritis of both hands	15687321000119109	3773910017	32	#N/A	1
+13709551000006119	4	^ESCT1370955		Rheumatoid arthritis of both knees	15687201000119107	3773914014	32	#N/A	1
+4809101000006114	31	^ESCTRH480910		Rheumatoid arthritis of distal radioulnar joint	201770001	309793012	32	#N/A	1
+4809221000006114	95	^ESCTRH480922		Rheumatoid arthritis of first metatarsophalangeal joint	201783000	309806016	32	#N/A	1
+7099641000006113	46	^ESCTRH709964		Rheumatoid arthritis of foot	429192004	2696026017	32	#N/A	1
+5721471000006112	2	^ESCTRH572147		Rheumatoid arthritis of hand	287007001	3035792015	32	#N/A	1
+162081000006111	81	N040M	N040M00	Rheumatoid arthritis of interphalangeal joint of toe	201785007	309809011	32	#N/A	1
+13605001000006117	16	^ESCT1360500		Rheumatoid arthritis of joint of spine	781206002	3745307011	32	#N/A	1
+13687681000006113	7	^ESCT1368768		Rheumatoid arthritis of left foot	1073701000119107	3775590011	32	#N/A	1
+3528259014	15	^ESCT1171326		Rheumatoid arthritis of left hand	1073711000119105	3528259014	32	#N/A	1
+3528264013	35	^ESCT1171327		Rheumatoid arthritis of left hip	1073721000119103	3528264013	32	#N/A	1
+8447181000006111	51	^ESCTRH844718		Rheumatoid arthritis of left knee	1073731000119100	3333699019	32	#N/A	1
+12114051000006110	22	^ESCT1211405		Rheumatoid arthritis of left shoulder	1073741000119109	3644983011	32	#N/A	1
+13687691000006111	11	^ESCT1368769		Rheumatoid arthritis of left wrist	1073751000119106	3724902014	32	#N/A	1
+5721431000006114	3863	^ESCTRH572143		Rheumatoid arthritis of multiple joints	287006005	2692387019	32	#N/A	1
+13687701000006111	20	^ESCT1368770		Rheumatoid arthritis of right foot	1073781000119104	3775592015	32	#N/A	1
+3528262012	15	^ESCT1171328		Rheumatoid arthritis of right hand	1073791000119101	3528262012	32	#N/A	1
+3528266010	46	^ESCT1171329		Rheumatoid arthritis of right hip	1073801000119100	3528266010	32	#N/A	1
+8447281000006115	59	^ESCTRH844728		Rheumatoid arthritis of right knee	1073811000119102	3333701019	32	#N/A	1
+12114061000006112	22	^ESCT1211406		Rheumatoid arthritis of right shoulder	1073821000119109	3644984017	32	#N/A	1
+13687711000006114	9	^ESCT1368771		Rheumatoid arthritis of right wrist	1073831000119107	3724904010	32	#N/A	1
+309790010	49	N0403	N040300	Rheumatoid arthritis of sternoclavicular joint	201767000	309790010	32	#N/A	1
+7078501000006113	52	^ESCTRH707850		Rheumatoid arthritis of temporomandibular joint	427770001	2692557014	32	#N/A	1
+4809181000006117	9	^ESCTRH480918		Rheumatoid arthritis of tibiofibular joint	201778008	309801014	32	#N/A	1
+162191000006110	7	N040E	N040E00	Rheumatoid arthritis of tibio-fibular joint	201778008	309801014	32	#N/A	1
+14512891000006117	50	^ESCT1451289		Rheumatoid arthritis with erosion of joint	735599007	4554595017	32	#N/A	1
+3514958019	2	^ESCT1165711		Rheumatoid arthritis without erosion	735600005	3514958019	32	#N/A	1
+3636551000006114	83	^ESCTRH363655		Rheumatoid disease	69896004	1233203018	32	#N/A	1
+8102191000006119	32	^ESCTRH810219		Rheumatoid lung disease with rheumatoid arthritis	3.19841E+14	3306524016	32	#N/A	1
+14493941000006117	1	^ESCT1449394		Rheumatoid pericarditis	7607008	4553410016	32	#N/A	1
+215551000000114	25702	N04y1-1	N04y111	Sero negative polyarthritis	399112009	1778572013	32	#N/A	1
+219271000000117	156934	N04y1	N04y100	Seronegative arthritis	399112009	1778572013	32	#N/A	1
+14514751000006114	33	^ESCT1451475		Seronegative rheumatoid arthritis of multiple joints	3.19081E+14	4554613015	32	#N/A	1
+13677531000006119	156	^ESCT1367753		Seronegative rheumatoid arthritis of multiple sites	3.19081E+14	3773965018	32	#N/A	1
+9357441000006116	24	^ESCTSE935744		Seropositive rheumatoid arthritis of multiple joints	11055151000119108	3333693018	32	#N/A	1
+3042571000006112	213	^ESCTSU304257		Subcutaneous rheumatoid nodule	33719002	56293018	32	#N/A	1
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
