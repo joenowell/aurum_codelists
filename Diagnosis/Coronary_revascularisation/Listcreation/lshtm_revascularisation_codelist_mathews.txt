@@ -1,0 +1,128 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+348644016	493785	792-1	792..11	Coronary artery bypass graft operations	232717009	348644016	32
+43909016	176598	7911-2	7911.12	Replacement of aortic valve	26212005	43909016	32
+2535176014	104522	792E	792E.00	Percutaneous coronary intervention	415070008	2535176014	32
+271169016	68834	792D	792D.00	Coronary artery bypass graft	232717009	348640013	32
+270949019	59656	79113	7911300	Replacement of aortic valve NEC	26212005	43909016	32
+394339014	24506	7A48	7A48.00	Arterial bypass of lower limb artery	405469008	2157272019	32
+161481000006112	23508	7920y	7920y00	Aortocoronary artery bypass graft with saphenous vein graft	3546002	6979016	32
+271075010	10282	79202	7920200	Aortocoronary artery bypass of three coronary arteries with saphenous vein graft	736968006	3525971010	32
+2160096015	8720	SP076	SP07600	Coronary artery bypass graft occlusion	408546009	2160096015	32
+349663013	8404	7A48-4	7A48.14	Femoral artery bypass	405463009	2157266019	32
+530141000006115	5882	7A482	7A48200	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft	50807007	1780371000000114	32
+161491000006110	5880	79203	7920300	Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft	736966005	3525965016	32
+271171016	5637	792Dz	792Dz00	Other bypass of coronary artery NOS	232717009	348640013	32
+2535177017	5532	792E0	792E000	Emergency percutaneous coronary intervention	414089002	2535177017	32
+161451000006116	4857	7920-1	7920.11	Saphenous vein graft replacement of coronary artery	3546002	1228282017	32
+530131000006113	4804	7A480	7A48000	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis	312688006	1780381000000111	32
+271074014	3918	79201	7920100	Aortocoronary artery bypass of two coronary arteries with saphenous vein graft	736969003	3525975018	32
+272003016	3695	7A48z	7A48z00	Other bypass of femoral artery or popliteal artery NOS	405469008	2157272019	32
+349662015	3351	7A48-5	7A48.15	Popliteal-distal bypass	233384002	349710011	32
+1550991000000116	2147	8L40	8L40.00	Coronary artery bypass graft operation planned	698378009	2974157013	32
+499653015	1887	7M360	7M36000	Cardiopulmonary bypass	63697000	499653015	32
+530061000006115	1885	7A121	7A12100	Bypass of bifurcation of aorta by anastomosis of aorta to femoral artery	448171003	2900875010	32
+271073015	1538	79200	7920000	Saphenous vein graft replacement of one coronary artery	736967001	3525967012	32
+270912013	1368	790H3	790H300	Revascularisation of wall of heart	174911007	270912013	32
+530161000006116	1246	7A486	7A48600	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft	448529008	2899845012	32
+271079016	1176	7920z	7920z00	Saphenous vein graft replacement coronary artery NOS	3546002	6979016	32
+271083016	1113	79212	7921200	Autograft replacement of three coronary arteries NEC	232721002	348651013	32
+530171000006111	1092	7A48C	7A48C00	Femoral-femoral artery vascular bypass	44662004	74498014	32
+271087015	1020	7922-1	7922.11	Allograft bypass of coronary artery	175021005	271087015	32
+1221554018	874	7921-1	7921.11	Other autograft bypass of coronary artery	232717009	348640013	32
+36061000006118	851	7A48y	7A48y00	Other bypass of femoral artery or popliteal artery OS	405469008	2157272019	32
+394323019	830	7A41	7A41.00	Iliac artery bypass	405477007	2157280014	32
+271170015	765	792Dy	792Dy00	Other specified other bypass of coronary artery	232717009	348640013	32
+530791000006113	719	7A48D	7A48D00	Bypass popliteal artery by pop/fem artery anastomosis NEC	112828007	184069011	32
+530151000006118	679	7A484	7A48400	Bypass femoral artery by fem/tib art anast c prosthesis NEC	233383008	349706013	32
+271602011	624	7A260	7A26000	Bypass of subclavian artery	450686004	2915980011	32
+349667014	608	7A47-6	7A47.16	Other emergency bypass of femoral artery	405463009	2157266019	32
+530201000006110	596	7A411	7A41100	Bypass of iliac artery by anastomosis of iliac artery to femoral artery	51018000	1780391000000113	32
+271084010	587	79213	7921300	Autograft replacement of four of more coronary arteries NEC	232722009	348654017	32
+530121000006110	583	7A48A	7A48A00	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft	448323005	2901040016	32
+238561000006119	561	79282	7928200	Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery	175066001	271142017	32
+394338018	548	7A47	7A47.00	Other emergency bypass of femoral artery or popliteal artery	405516005	2157318011	32
+271531017	483	7A202	7A20200	Bypass of carotid artery	450690002	2915617016	32
+271093011	458	79222	7922200	Allograft replacement of three coronary arteries	736972005	3525981014	32
+530111000006119	411	7A488	7A48800	Bypass femoral artery by fem/peron a anast c prosthesis NEC	233383008	349706013	32
+530051000006117	387	7A101	7A10100	Bypass aorta by anastomosis axillary to femoral artery NEC	233379008	349697018	32
+271431019	381	7A12	7A12.00	Other bypass of bifurcation of aorta	233373009	349683014	32
+639421000006116	376	7A472	7A47200	Emerg bypass femoral art by fem/pop a anast c vein graft NEC	112828007	184069011	32
+271082014	347	79211	7921100	Autograft replacement of two coronary arteries NEC	232720001	348649014	32
+601151000006113	345	7A660	7A66000	Crossover graft of saphenous vein	233448005	349800012	32
+530191000006112	329	7A413	7A41300	Bypass iliac artery by femoral/femoral art anastomosis NEC	233380006	349698011	32
+271609019	327	7A267	7A26700	Bypass of brachial artery	450684001	2915971011	32
+272175010	325	7A64	7A64.00	Other bypass operations on vein	116361007	183986013	32
+530071000006110	307	7A123	7A12300	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery	265495003	394305010	32
+271095016	292	7922y	7922y00	Other specified allograft replacement of coronary artery	175021005	271087015	32
+271097012	290	7923-1	7923.11	Prosthetic bypass of coronary artery	175029007	271097012	32
+530821000006116	268	7A483	7A48300	Bypass popliteal artery by pop/pop a anast c vein graft NEC	233384002	349710011	32
+271603018	252	7A261	7A26100	Bypass of axillary artery	450683007	2915737010	32
+272181019	248	7A64z	7A64z00	Bypass operation on vein NOS	116361007	183986013	32
+271081019	228	79210	7921000	Autograft replacement of one coronary artery NEC	232719007	348647011	32
+271868010	227	7A41z	7A41z00	Other bypass of iliac artery NOS	116360008	183983017	32
+349669012	219	7A47-4	7A47.14	Other emergency bypass of popliteal artery	116360008	183983017	32
+271445013	218	7A12z	7A12z00	Other bypass of bifurcation of aorta NOS	233373009	349683014	32
+271722015	196	7A331	7A33100	Bypass of superior mesenteric artery NEC	116360008	183983017	32
+271094017	195	79223	7922300	Allograft replacement of four or more coronary arteries	736970002	3525977014	32
+1767701000006110	194	7A104	7A10400	Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries	233379008	2899972015	32
+530221000006117	188	7A41B	7A41B00	Bypass leg artery by aorta/com femoral art anastomosis NEC	116360008	183983017	32
+349666017	187	7A48-1	7A48.11	Other bypass of femoral or popliteal artery by anastomosis	405516005	2157318011	32
+349665018	185	7A48-2	7A48.12	Other bypass of common femoral artery	405463009	2157266019	32
+349661010	185	7A48-6	7A48.16	Other bypass of superficial femoral artery	405463009	2157266019	32
+530841000006111	182	7A487	7A48700	Bypass popliteal artery by pop/tib a anast c vein graft NEC	233384002	349710011	32
+530261000006111	176	7A164	7A16400	Bypass of abdominal aorta by anastomosis aorta to aorta NEC	116360008	183983017	32
+530781000006110	165	7A48B	7A48B00	Bypass popliteal art by pop/peron art anast c vein graft NEC	233384002	349710011	32
+271479014	162	7A16	7A16.00	Other bypass of segment of aorta	116360008	183983017	32
+271096015	153	7922z	7922z00	Allograft replacement of coronary artery NOS	175021005	271087015	32
+271092018	115	79221	7922100	Allograft replacement of two coronary arteries	736973000	3525983012	32
+272178012	106	7A64y	7A64y00	Other specified bypass operation on vein	116361007	183986013	32
+530091000006111	100	7A419	7A41900	Bypass common iliac artery by aorta/com iliac art anast NEC	116360008	183983017	32
+1235382014	98	7A301	7A30100	Bypass of renal artery	88821004	1235382014	32
+530811000006112	92	7A481	7A48100	Bypass popliteal artery by pop/pop a anast c prosthesis NEC	233384002	349710011	32
+530271000006116	87	7A160	7A16000	Bypass of ascending aorta by anastomosis aorta to aorta NEC	116360008	183983017	32
+530231000006119	76	7A41C	7A41C00	Bypass leg artery by aorta/deep femoral art anastomosis NEC	405482000	2157285016	32
+659501000006114	72	7A10	7A10.00	Extraanatomic bypass of aorta	175275009	271412013	32
+271486018	72	7A16z	7A16z00	Other bypass of segment of aorta NOS	116360008	183983017	32
+639461000006110	72	7A47C	7A47C00	Emerg bypass femoral artery by fem/fem art anastomosis NEC	116360008	183983017	32
+639601000006111	66	7A47D	7A47D00	Emerg bypass popliteal artery by pop/fem art anastomosis NEC	116360008	183983017	32
+271530016	63	7A201	7A20100	Intracranial bypass to carotid artery	175365009	271530016	32
+271089017	61	79220	7922000	Allograft replacement of one coronary artery	736971003	3525979012	32
+271115018	58	7925-1	7925.11	Creation of bypass from mammary artery to coronary artery	175045009	271115018	32
+639441000006111	55	7A476	7A47600	Emerg bypass femoral art by fem/tib a anast c vein graft NEC	233383008	349706013	32
+530831000006118	50	7A485	7A48500	Bypass popliteal artery by pop/tib a anast c prosthesis NEC	233384002	349710011	32
+271471012	47	7A15	7A15.00	Other emergency bypass of segment of aorta	450682002	2915571016	32
+271086012	46	7921z	7921z00	Other autograft replacement of coronary artery NOS	232717009	348640013	32
+530211000006113	45	7A41D	7A41D00	Bypass iliac artery by iliac/iliac artery anastomosis NEC	116360008	183983017	32
+249201000006112	41	7A660-1	7A66011	Palma crossover graft of saphenous vein	265540006	394354015	32
+271444012	39	7A12y	7A12y00	Other specified other bypass of bifurcation of aorta	233373009	349683014	32
+31351000006112	39	7A47z	7A47z00	Other emergency bypass of femoral or popliteal artery NOS	116360008	183983017	32
+11211000006110	38	7A10y	7A10y00	Other specified extraanatomic bypass of aorta	175275009	271412013	32
+271867017	38	7A41y	7A41y00	Other specified other bypass of iliac artery	116360008	183983017	32
+639371000006111	37	7A120	7A12000	Emergency bypass of bifurcation of aorta by anastomosis of aorta to femoral artery	175290008	271432014	32
+639491000006119	36	7A412	7A41200	Emerg bypass iliac artery by femoral/femoral art anast NEC	233380006	349698011	32
+31361000006114	34	7A47y	7A47y00	Other emergency bypass of femoral or popliteal artery OS	405516005	2157318011	32
+639561000006111	33	7A477	7A47700	Emerg bypass pop art by pop/tib art anast c vein graft NEC	233384002	349710011	32
+530801000006114	33	7A489	7A48900	Bypass popliteal artery by pop/peron art anast c prosth NEC	233384002	349710011	32
+659511000006112	29	7A10z	7A10z00	Extraanatomic bypass of aorta NOS	175275009	271412013	32
+530731000006114	27	7A161	7A16100	Bypass of thoracic aorta by anastomosis aorta to aorta NEC	116360008	183983017	32
+639551000006114	27	7A473	7A47300	Emerg bypass pop art by pop/pop art anast c vein graft NEC	233384002	349710011	32
+271485019	26	7A16y	7A16y00	Other specified other bypass of segment of aorta	116360008	183983017	32
+349671012	24	7A47-2	7A47.12	Other emergency bypass of common femoral artery	116360008	183983017	32
+349668016	22	7A47-5	7A47.15	Other emergency bypass of superficial femoral artery	116360008	183983017	32
+375781000000110	17	7A207	7A20700	Intracranial bypass from carotid artery NEC	175365009	271530016	32
+349677011	17	7A41-1	7A41.11	Other bypass of iliac artery by anastomosis	405477007	2157280014	32
+36861000006113	16	7921y	7921y00	Other autograft replacement of coronary artery OS	232717009	348640013	32
+271720011	16	7A330	7A33000	Bypass of coeliac artery NEC	116360008	183983017	32
+639511000006113	15	7A153	7A15300	Emerg bypass infrarenal aorta by anastom aorta to aorta NEC	449530008	2900441015	32
+271478018	14	7A15z	7A15z00	Other emergency bypass of segment of aorta NOS	450682002	2915571016	32
+530511000006110	14	7A163	7A16300	Bypass of infrarenal aorta by anastomosis aorta to aorta NEC	116360008	183983017	32
+271723013	13	7A332	7A33200	Bypass of inferior mesenteric artery NEC	116360008	183983017	32
+639361000006116	10	7A150	7A15000	Emerg bypass ascending aorta by anastom aorta to aorta NEC	116360008	183983017	32
+639521000006117	10	7A416	7A41600	Emerg bypass leg artery by aorta/com fem art anastomosis NEC	116360008	183983017	32
+639351000006118	8	7A154	7A15400	Emerg bypass abdominal aorta by anastom aorta to aorta NEC	448122008	2899751014	32
+373401000000110	5	7M364	7M36400	Modified ultrafiltration adjunct cardiopulmonary bypass	232111000000100	373401000000110	32
+271477011	4	7A15y	7A15y00	Other specified other emergency bypass of segment of aorta	450682002	2915571016	32
+271743019	4	7A33H	7A33H00	Bypass of visceral branch of abdominal aorta NEC	75916006	126104014	32
+349670013	4	7A47-3	7A47.13	Other emergency bypass of deep femoral artery	116360008	183983017	32
+639541000006112	3	7A47B	7A47B00	Emerg bypass pop art by pop/peron art anast c vein graft NEC	233384002	349710011	32
+639391000006112	2	7A414	7A41400	Emerg bypass comm iliac art by aorta/com iliac art anast NEC	116360008	183983017	32

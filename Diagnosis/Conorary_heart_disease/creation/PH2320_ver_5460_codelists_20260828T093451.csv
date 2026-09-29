@@ -1,0 +1,337 @@
+code,description,coding_system,concept_id,concept_version_id,concept_name,phenotype_id,phenotype_version_id,phenotype_name,code_attributes
+10273003,Acute infarction of papillary muscle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+103011000119106,Coronary arteriosclerosis in patient with history of previous myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1077002,Septal infarction by electrocardiogram,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1089431000000107,Postoperative nontransmural myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1089441000000103,Postoperative transmural myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1089451000000100,Acute nontransmural myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1089471000000109,Acute transmural myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+10971000087107,Myocardial ischemia during surgery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+11018701000119109,Coronary arteriosclerosis after percutaneous coronary angioplasty,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1163420005,Pericardial effusion following myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1163440003,Postoperative acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+117051000119103,Chronic total occlusion of coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1204151009,Acute inferior non-ST segment elevation myocardial infarction of right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1204152002,Acute inferior non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1204154001,Acute anterior non-ST segment elevation myocardial infarction with right ventricular involvement,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1204155000,Acute anterior non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1204222000,Acute non-ST segment elevation myocardial infarction of right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1208867006,Ventricular thrombus following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1208872002,Subsequent anterior non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1208873007,Subsequent inferior non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1222625002,Hypercyanotic spell due to congenital heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+12238111000119106,Acute ST segment elevation myocardial infarction of inferolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+123641001,Left coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+123642008,Right coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254657004,Stenosis of proximal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254658009,Stenosis of mid portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254659001,Stenosis of distal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254660006,Stenosis of marginal branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254661005,Stenosis of posterior lateral branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254662003,Stenosis of posterior descending branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254663008,Stenosis of distal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1254666000,Stenosis of ostium of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255256006,Stenosis of proximal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255257002,Stenosis of mid portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255258007,Stenosis of distal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255265004,Stenosis of proximal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255266003,Stenosis of mid portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255569006,Stenosis of ostium of left main coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255621004,Stenosis of distal segment of left coronary artery main stem,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255622006,Stenosis of mid segment of left coronary artery main stem,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255623001,Stenosis of ostium of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1255624007,Stenosis of ostium of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1269257006,Arteriosclerosis of nonautologous biological coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1293192009,Premature coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+129574000,Postoperative myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+130541000119100,History of placement of stent in coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+139011000119104,Coronary arteriosclerosis following coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15712841000119100,Acute ST segment elevation myocardial infarction of posterolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15712961000119108,Acute ST segment elevation myocardial infarction of anteroseptal wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713001000119100,Acute ST segment elevation myocardial infarction of atrium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713041000119103,Acute ST segment elevation myocardial infarction of posterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713081000119108,Acute ST segment elevation myocardial infarction due to left coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713121000119105,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713161000119100,Acute ST segment elevation myocardial infarction of septum,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15713201000119105,Acute ST segment elevation myocardial infarction of posterobasal wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960341000119104,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960461000119105,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960581000119102,Angina co-occurrent and due to arteriosclerosis of autologous vein coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960661000119107,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960741000119103,Preinfarction syndrome due to arteriosclerosis of nonautologous biological coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15960981000119105,Mural thrombus of left ventricle following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+15990001,Acute myocardial infarction of posterolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+161502000,History of myocardial infarct at age less than sixty,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+161503005,History of myocardial infarct at age greater than sixty,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1641000119107,Coronary arteriosclerosis in native artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+16415081000119104,Supraventricular tachycardia following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+16837681000119104,Myocardial infarction due to demand ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+16891151000119103,Coronary artery disease due to type 2 diabetes mellitus,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+16891191000119108,Coronary artery disease due to type 1 diabetes mellitus,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+17531000119105,Acute myocardial infarction due to left coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+1755008,Old myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+19057007,Status anginosus,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194802003,True posterior myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194809007,Acute atrial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194821006,Coronary thrombosis not resulting in myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194823009,Acute coronary insufficiency,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194828000,Angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194842008,Single coronary vessel disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194843003,Double coronary vessel disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194849004,Generalized ischemic myocardial dysfunction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194856005,Subsequent myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194857001,Subsequent myocardial infarction of anterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194858006,Subsequent myocardial infarction of inferior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194861007,Certain current complications following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194862000,Hemopericardium due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194863005,Atrial septal defect due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194865003,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194866002,Rupture of chordae tendinae due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194867006,Rupture of papillary muscle as current complication following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+194868001,"Thrombosis of atrium, auricular appendage, and ventricle due to and following acute myocardial infarction",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+21470009,Syncope anginosa,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+22298006,Myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+225566008,Ischemic chest pain,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+23311000119105,Acute myocardial infarction due to right coronary artery occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233817007,Triple vessel disease of the heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233819005,Stable angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233821000,New onset angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233823002,Silent myocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233825009,Acute Q wave infarction - anteroseptal,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233826005,Acute non-Q wave infarction - anteroseptal,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233827001,Acute Q wave infarction - anterolateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233828006,Acute non-Q wave infarction - anterolateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233829003,Acute Q wave infarction - inferior,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233830008,Acute non-Q wave infarction - inferior,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233831007,Acute Q wave infarction - inferolateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233832000,Acute non-Q wave infarction - inferolateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233833005,Acute Q wave infarction - lateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233834004,Acute non-Q wave infarction - lateral,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233835003,Acute widespread myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233836002,Acute Q wave infarction - widespread,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233837006,Acute non-Q wave infarction - widespread,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233838001,Acute posterior myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233839009,Old anterior myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233840006,Old inferior myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233841005,Old lateral myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233842003,Old posterior myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233843008,Silent myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233844002,Accelerated coronary artery disease in transplanted heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233846000,Post-infarction ventricular septal defect,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233847009,Cardiac rupture due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233885007,Post-infarction pericarditis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+233970002,Stenosis of coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+251024009,Coronary graft stenosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+25106000,Impending infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+281091000,Ischemic myocardial dysfunction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+281092007,Stunned myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+281093002,Hibernating myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+282006,Acute myocardial infarction of basal-lateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285141000119106,Arteriosclerosis of autologous arterial coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285151000119108,Arteriosclerosis of autologous coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285721000119104,History of acute ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285951000119105,Mechanical breakdown of coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285981000119103,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+285991000119100,Acute ST segment elevation myocardial infarction involving left main coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+300995000,Exercise-induced angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+30277009,Rupture of ventricle due to acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+304914007,Acute Q wave myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+307140009,Acute non-Q wave infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+308065005,History of myocardial infarction in last year,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+311792005,Postoperative transmural myocardial infarction of anterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+311793000,Postoperative transmural myocardial infarction of inferior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+311796008,Postoperative subendocardial myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+314116003,Post infarct angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+314207007,Non-Q wave myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+315025001,Refractory angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+315026000,Transient myocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+315348000,Asymptomatic coronary heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+32574007,"Past myocardial infarction diagnosed on electrocardiogram AND/OR other special investigation, but currently presenting no symptoms",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35401000087106,Old infarct of myocardium of apex of heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35411000087108,Old infarct of myocardium of anterolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35421000087100,Old infarct of myocardium of inferolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35431000087103,Old infarct of high lateral wall of myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35441000087109,Old infarct of myocardium of posterolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35451000087107,Old infarct of myocardium of ventricular septum,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35461000087105,Ischemia of anterior myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35471000087101,Ischemia of apical anterior segment of left cardiac ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35481000087104,Ischemia of myocardium of ventricular septum,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35491000087102,Ischemia of lateral myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35501000087105,Ischemia of myocardium of anterolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35511000087107,Ischemia of myocardium of anteroseptal region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35521000087104,Ischemia of myocardium of apex of heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35541000087108,Ischemia of myocardium of inferior surface of left ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35551000087106,Ischemia of myocardium of inferolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35561000087109,Ischemia of myocardium of inferolateral region of myocardium with extension to posterior myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35571000087100,Ischemia of myocardium of posterolateral region,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35581000087103,Ischemia of posterior myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+35928006,Nocturnal angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371068009,Myocardial infarction with complication,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371803003,Multi vessel coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371804009,Left main coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371805005,Significant coronary bypass graft disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371806006,Progressive angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371807002,Atypical angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371808007,Recurrent angina status post percutaneous transluminal coronary angioplasty,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371809004,Recurrent angina following placement of coronary artery stent,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371810009,Recurrent angina status post coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371811008,Recurrent angina status post rotational atherectomy,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+371812001,Recurrent angina status post directional coronary atherectomy,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+387785661000119105,History of myocardial infarction due to atherothrombotic coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+394659003,Acute coronary syndrome,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+394710008,First myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+398274000,Coronary artery thrombosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+399211009,History of myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+399261000,History of coronary artery bypass grafting,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+401303003,Acute ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+401314000,Acute non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+408546009,Coronary artery bypass graft occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+41334000,"Angina, class II",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+413439005,Acute ischemic heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+413444003,Acute myocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+413838009,Chronic ischemic heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+413844008,Chronic myocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+414024009,Disorder of coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+414545008,Ischemic heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+414795007,Myocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+418044006,Myocardial infarction in recovery phase,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+420006002,Obliterative coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+42531007,Microinfarct of heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+426856002,Ischemic congestive cardiomyopathy,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+427919004,Coronary arteriosclerosis caused by radiation,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+428196007,Mixed myocardial ischemia and infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+42866003,Congenital coronary artery sclerosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+428752002,Recent myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+429245005,Recurrent coronary arteriosclerosis after percutaneous transluminal coronary angioplasty,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+429391004,New myocardial infarction compared to prior study,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+429559004,Typical angina,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+429673002,Arteriosclerosis of coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+442224005,Arteriosclerosis of autologous vein coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+442240008,Arteriosclerosis of nonautologous coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+442421004,Arteriosclerosis of arterial coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+443502000,Atherosclerosis of coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+444855007,Arteriosclerosis of coronary artery bypass graft of transplanted heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+444856008,Arteriosclerosis of internal mammary artery coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44761000087104,Occlusion of distal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44771000087108,Occlusion of mid portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44781000087105,Occlusion of obtuse marginal branch of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44791000087107,Occlusion of posterior lateral branch of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44801000087106,Occlusion of proximal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44811000087108,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44821000087100,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44831000087103,Acute ST segment elevation myocardial infarction due to occlusion of obtuse marginal branch of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44841000087109,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+44851000087107,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+4557003,Preinfarction syndrome,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+461000119108,History of myocardial infarction in last eight weeks,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+46109009,Subendocardial ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+472100003,Ischemic dilated cardiomyopathy due to coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+52035003,Acute anteroapical myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+53741008,Coronary arteriosclerosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+54329005,Acute myocardial infarction of anterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+57054005,Acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+58612006,Acute myocardial infarction of lateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+59021001,Angina decubitus,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+59063002,Acute myocardial infarction of apical-lateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+61236006,Aortocoronary artery bypass graft repeated,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+61490001,"Angina, class I",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+62695002,Acute anteroseptal myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+63739005,Coronary occlusion,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+64627002,Acute myocardial infarction of high lateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+65547006,Acute myocardial infarction of inferolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+66189004,Postmyocardial infarction syndrome,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+67682002,Coronary artery atheroma,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+697976003,Microvascular ischemia of myocardium,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+698377004,Coronary angioplasty planned,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+698378009,Coronary artery bypass graft operation planned,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+698593009,History of non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+70211005,Acute myocardial infarction of anterolateral wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703164000,Acute ST segment elevation myocardial infarction of anterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703165004,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703209002,Subsequent ST segment elevation myocardial infarction of inferior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703210007,Subsequent ST segment elevation myocardial infarction of anterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703211006,Subsequent ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703212004,Acute myocardial infarction during procedure,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703213009,Acute ST segment elevation myocardial infarction of inferior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703214003,Silent coronary vasospastic disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703251009,Acute myocardial infarction of inferior wall involving right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703252002,Acute myocardial infarction of anterior wall involving right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703253007,Acute ST segment elevation myocardial infarction of inferior wall involving right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703326006,Mitral valve regurgitation due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703328007,Mitral valve regurgitation due to acute myocardial infarction without papillary muscle and chordal rupture,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703330009,Mitral valve regurgitation due to acute myocardial infarction with papillary muscle and chordal rupture,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+703360004,Subsequent non-ST segment elevation myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+70422006,Acute subendocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+70998009,Acute myocardial infarction of basal inferior segment of left ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+71023004,Pericarditis due to acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+712866001,Resting ischemia co-occurrent and due to ischemic heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+713405002,Subacute ischemic heart disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+719678003,Non-obstructive atherosclerosis of coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+723858002,Ventricular aneurysm due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+723859005,Pulmonary embolism due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+723860000,Arrhythmia due to and following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+723861001,Cardiogenic shock unrelated to mechanical complications as current complication following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+723862008,Atherosclerosis of non-autologous coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+724431008,Atherosclerosis of autologous coronary artery bypass graft,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+726499301000119105,Myocardial infarction due to atherothrombotic coronary artery disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+736978009,Mural thrombus of right ventricle following acute myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+73795002,Acute myocardial infarction of inferior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+76593002,Acute myocardial infarction of inferoposterior wall,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+776219771000119107,History of myocardial infarction due to demand ischemia,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+78741000119103,Acute coronary artery occlusion not resulting in myocardial infarction,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+79009004,Acute myocardial infarction of septum,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+791000119109,Angina due to type 2 diabetes mellitus,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+792842004,Coronary arteriosclerosis in artery of transplanted heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+810681000000101,Coronary microvascular disease,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+82522008,Ischemic contracture of left ventricle syndrome,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+827163002,Early postmyocardial infarction pericarditis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+827164008,Delayed postmyocardial infarction pericarditis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+836293000,Acute myocardial infarction of right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+836294006,Acute myocardial infarction of apex of heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+836295007,Acute myocardial infarction of inferolateral wall with posterior extension,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840309000,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840310005,Occlusion of proximal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840312002,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840313007,Occlusion of mid portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840315000,Occlusion of distal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840316004,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840608004,Occlusion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840609007,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840679006,Occlusion of septal branch of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+840680009,Acute ST segment elevation myocardial infarction due to occlusion of septal branch of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+846667001,Occlusion of diagonal branch of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+846668006,Acute ST segment elevation myocardial infarction due to occlusion of diagonal branch of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+846683001,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+846684007,Occlusion of intermediate artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+85284003,"Angina, class III",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868214006,Acute ST segment elevation myocardial infarction due to occlusion of proximal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868215007,Occlusion of proximal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868216008,Occlusion of distal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868217004,Acute ST segment elevation myocardial infarction due to occlusion of distal portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868219001,Occlusion of mid portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868220007,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868221006,Occlusion of marginal branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868222004,Occlusion of posterior descending branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868223009,Occlusion of posterior lateral branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868224003,Acute ST segment elevation myocardial infarction due to occlusion of marginal branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868225002,Acute ST segment elevation myocardial infarction due to occlusion of posterior descending branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+868226001,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+876856005,Stenosis of right coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+876857001,Stenosis of left coronary artery main stem,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+876858006,Stenosis of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+876859003,Stenosis of anterior descending branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+879955009,Myocardial infarction with non-obstructive coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+89323001,"Angina, class IV",SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+896689003,Acute myocardial infarction due to occlusion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+896690007,Occlusion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+896691006,Acute ST segment elevation myocardial infarction due to occlusion of circumflex branch of left coronary artery,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+896696001,Acute ST segment elevation myocardial infarction of apex of heart,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+896697005,Acute ST segment elevation myocardial infarction of right ventricle,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes
+92517006,Calcific coronary arteriosclerosis,SNOMED  CT codes,C5637,13122,nhsd-primary-care-domain-refsets/chd_cod/20250912,PH2320,5460,Coronary heart disease (CHD) codes

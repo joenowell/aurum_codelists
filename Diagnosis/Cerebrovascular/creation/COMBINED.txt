@@ -1,0 +1,489 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+395783012	1207317	G65-2	G65..12	Transient ischaemic attack	266257000	395783012	32
+405339016	1198825	G66	G66..00	Cerebrovascular accident	230690007	345637012	32
+395788015	1021424	G65	G65..00	Transient cerebral ischaemia	266257000	395788015	32
+605501000006117	597868	G66-1	G66..11	CVA unspecified	230690007	345637012	32
+395780010	264754	G64z	G64z.00	Cerebral infarction	432504007	2770034014	32
+605491000006113	258498	G66-3	G66..13	CVA - Cerebrovascular accident	230690007	345635016	32
+5010981000006119	210172	^ESCTST501098		Stroke	230690007	345636015	32
+605461000006117	172570	G64-1	G64..11	CVA - cerebrovascular accident due to cerebral artery occlusion	230691006	345638019	32
+1222398015	148034	G64	G64..00	Cerebral arterial occlusion	20059004	1222398015	32
+122401000006115	119499	G66-2	G66..12	Stroke unspecified	230690007	345637012	32
+744901000006114	99833	G61	G61..00	Intracerebral haemorrhage (ICH)	274100004	2819959010	32
+251692018	94696	14AB	14AB.00	H/O: TIA	161511000	251692018	32
+300370010	88027	G667	G667.00	Left sided CVA	195216008	300370010	32
+300371014	81213	G668	G668.00	Right sided CVA	195217004	300371014	32
+497559016	65283	E004	E004.00	Arteriosclerotic dementia	56267009	497559016	32
+605471000006112	57316	G61-1	G61..11	Cerebral hemorrhage	274100004	409859018	32
+158118014	51847	G64z-2	G64z.12	Cerebellar infarction	95460007	158118014	32
+451133011	47465	G64z2	G64z200	Left sided cerebral infarction	307766002	451133011	32
+122371000006118	46008	G61-2	G61..12	Cerebral haemorrhage	274100004	409860011	32
+696161000006115	43234	E004-1	E004.11	Multi-infarct dementia	56267009	93568017	32
+451134017	42062	G64z3	G64z300	Right sided cerebral infarction	307767006	451134017	32
+299342019	36489	Fyu56	Fyu5600	Lacunar infarction	230698000	345651012	32
+122361000006113	34398	G64-3	G64..13	Stroke due to cerebral arterial occlusion	230691006	345638019	32
+118689010	29189	G640	G640.00	Cerebral thrombosis	71444005	118689010	32
+6990981000006114	23171	^ESCTIS699098		Ischaemic stroke	422504002	2644234018	32
+67511000006117	20886	G65-3	G65..13	Vertebro-basilar insufficiency	64009001	106394016	32
+95931000006111	19652	G65z	G65z.00	Transient cerebral ischaemia NOS	266257000	395788015	32
+218511000000117	17469	G64-2	G64..12	Infarction - cerebral	432504007	2770034014	32
+2474651019	14016	G64z4	G64z400	Infarction of basal ganglia	413102000	2474651019	32
+502878012	13505	G613	G613.00	Cerebellar haemorrhage	75038005	502878012	32
+399031000006111	13081	Eu011	Eu01100	[X]Multi-infarct dementia	56267009	93568017	32
+4778181000006119	11826	^ESCTLE477818		Left sided cerebral hemisphere cerebrovascular accident	195216008	300369014	32
+300366019	10971	G664	G664.00	Cerebellar stroke syndrome	195213000	300366019	32
+524511000006116	10608	G663	G663.00	Brainstem stroke syndrome	195212005	300365015	32
+3414251000006112	10417	^ESCTVA341425		VAD - Vascular dementia	56267009	497560014	32
+4778201000006118	9863	^ESCTRI477820		Right sided cerebral hemisphere cerebrovascular accident	195217004	300372019	32
+300362017	9113	G660	G660.00	Middle cerebral artery syndrome	195209007	300362017	32
+300349016	8557	G65zz	G65zz00	Transient cerebral ischaemia NOS	266257000	395788015	32
+363791000006112	8329	Eu01-1	Eu01.11	[X]Arteriosclerotic dementia	56267009	497559016	32
+106394016	8293	G656	G656.00	Vertebrobasilar insufficiency	64009001	106394016	32
+5011091000006110	8147	^ESCTPA501109		Partial anterior cerebral circulation infarction	230695002	345645019	32
+125470015	7864	G641	G641.00	Cerebral embolism	75543006	125470015	32
+8453031000006117	6790	^ESCTHA845303		Haemorrhagic stroke	1078001000000105	2702821000000119	32
+5011131000006112	6403	^ESCTPO501113		Posterior cerebral circulation infarction	230696001	345649013	32
+300277011	6021	G617	G617.00	"Intracerebral haemorrhage, intraventricular"	195168007	300277011	32
+543141000006110	5884	G6X	G6X..00	Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	20059004	33759015	32
+524541000006117	5541	G64z0	G64z000	Brain stem infarction	95457000	158113017	32
+5582311000006110	5365	^ESCTOC558231		Occipital cerebral infarction	276219001	412270012	32
+503791000006114	5351	G612	G612.00	Basal ganglia haemorrhage	195165005	300272017	32
+300321011	4967	G6400	G640000	Cerebral infarction due to thrombosis of cerebral arteries	195189003	300321011	32
+300287010	4673	G61z	G61z.00	Intracerebral haemorrhage NOS	274100004	2819959010	32
+300943012	4500	Gyu66	Gyu6600	Cerebral artery occlusion	20059004	33759015	32
+300364016	3901	G662	G662.00	Posterior cerebral artery syndrome	195211003	300364016	32
+25897016	3643	G652	G652.00	Subclavian steal syndrome	15258001	25897016	32
+9912271000006112	3398	^ESCTCE991227		Cerebellar stroke	16371781000119100	3320493016	32
+300312010	3376	G63y0	G63y000	Cerebral infarct due to thrombosis of precerebral arteries	195185009	300312010	32
+499739014	3282	G650-1	G650.11	Insufficiency - basilar artery	64009001	499739014	32
+5011051000006116	3247	^ESCTTO501105		Total anterior cerebral circulation infarction	230694003	345644015	32
+300941014	3231	Gyu64	Gyu6400	[X]Other cerebral infarction	432504007	2770034014	32
+67501000006115	3230	G6510	G651000	Vertebrobasilar artery syndrome	195199008	300343015	32
+503469016	3157	G614	G614.00	Pontine haemorrhage	7713009	503469016	32
+106392017	2963	G650	G650.00	Basilar artery syndrome	64009001	106392017	32
+300363010	2688	G661	G661.00	Anterior cerebral artery syndrome	195210002	300363010	32
+345684012	2580	G657	G657.00	Carotid territory transient ischaemic attack	230716006	345684012	32
+294656010	2522	E004z	E004z00	Arteriosclerotic dementia NOS	56267009	497559016	32
+345655015	2322	G665	G665.00	Pure motor lacunar syndrome	230699008	345655015	32
+8044481000006118	2247	^ESCTIS804448		Ischaemic stroke without coma	1.40921E+14	2967538018	32
+300322016	2043	G6410	G641000	Cerebral infarction due to embolism of cerebral arteries	195190007	300322016	32
+7054171000006115	1860	^ESCTAC705417		Acute lacunar infarction	426107000	2674093010	32
+5011471000006116	1789	^ESCTPO501147		Posterior circulation stroke of uncertain pathology	230715005	345682011	32
+496232015	1739	G611	G611.00	Internal capsule haemorrhage	52201006	496232015	32
+542261000006114	1710	G6W	G6W..00	Cerebral infarction due to occlusion of precerebral artery	1.25081E+14	3042974014	32
+6348301000006119	1692	^ESCTEM634830		Embolic stroke	371041009	1209751018	32
+5492171000006112	1684	^ESCTTI549217		TIA	266257000	395781014	32
+300939013	1681	Gyu62	Gyu6200	Cerebral haemorrhage	274100004	409860011	32
+14068071000006114	1602	^ESCT1406807		History of transient ischaemic attack	161511000	3789194012	32
+5011411000006113	1584	^ESCTTH501141		Thalamic haemorrhage	230711001	345676013	32
+300348012	1574	G65y	G65y.00	Other transient cerebral ischaemia	266257000	395788015	32
+130375018	1510	G64z1-1	G64z111	Lateral medullary syndrome	78569004	130375018	32
+8231151000006110	1495	^ESCTPE823115		Personal history of transient ischaemic attack	7.51371E+14	1653121000000119	32
+5967391000006111	1428	^ESCTMU596739		Multiple lacunar infarcts	307363008	450609012	32
+416991000006112	1408	Fyu55	Fyu5500	Transient cerebral ischemia	266257000	395788015	32
+300313017	1398	G63y1	G63y100	Cerebral infarction due to embolism of precerebral arteries	195186005	300313017	32
+345675012	1388	G619	G619.00	Lobar cerebral haemorrhage	230710000	345675012	32
+163261000006119	1379	G61X1	G61X100	"Right sided intracerebral haemorrhage, unspecified"	195168007	300277011	32
+748941000006115	1346	G61X0	G61X000	"Left sided intracerebral haemorrhage, unspecified"	274100004	409859018	32
+5011041000006118	1340	^ESCTAN501104		Anterior cerebral circulation infarction	230693009	345640012	32
+12223101000006118	1276	^ESCT1222310		Intracerebral haemorrhage	274100004	3673215016	32
+58046010	1247	G651	G651.00	Vertebral artery syndrome	34781003	58046010	32
+884421000006119	1183	G6-99	G6...99	Cerebral haemorrhage	274100004	8.84421E+14	32
+345650013	1062	G64z-1	G64z.11	Brainstem infarction NOS	95457000	158113017	32
+542251000006112	1056	G6760	G676000	"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic"	195230003	300393016	32
+1667741000000110	1050	ZV12D	ZV12D00	[V]Personal history of transient ischaemic attack	7.51371E+14	1667741000000110	32
+495394013	967	G610	G610.00	Cortical haemorrhage	49422009	495394013	32
+345658018	917	G666	G666.00	Pure sensory lacunar syndrome	230700009	345658018	32
+300344014	882	G653	G653.00	Carotid artery syndrome hemispheric	195200006	300344014	32
+3515794015	764	^ESCT1173136		Acute cerebral ischaemia	16218291000119100	3515794015	32
+744921000006116	763	G61X	G61X.00	"Intracerebral haemorrhage in hemisphere, unspecified"	274100004	409860011	32
+300353019	762	G65z1	G65z100	Intermittent cerebral ischaemia	195206000	300353019	32
+5011291000006119	760	^ESCTHA501129		Haemorrhagic cerebral infarction	230706003	345667018	32
+5011461000006111	757	^ESCTAN501146		Anterior circulation stroke of uncertain pathology	230714009	345681016	32
+1212072018	752	ESCTOC3		Occlusive stroke	373606000	1212072018	32
+149347010	707	F21y2	F21y200	Binswanger's disease	90099008	149347010	32
+14492731000006117	664	^ESCT1449273		Cerebrovascular accident of thalamus	769023031000119104	4577288015	32
+5492221000006118	642	^ESCTTR549222		Transient ischemic attack	266257000	395787013	32
+5011491000006115	576	^ESCTAN501149		Anterior circulation transient ischaemic attack	230716006	345683018	32
+300956017	500	Gyu6F	Gyu6F00	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	274100004	409860011	32
+6846141000006118	496	^ESCTCA684614		Cardioembolic stroke	413758000	2535208016	32
+370701000006118	452	Gyu63	Gyu6300	[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs	20059004	33759015	32
+542831000006116	431	G641-1	G641.11	Cerebral embolus	75543006	125470015	32
+423221000006117	406	Eu011-1	Eu01111	[X]Predominantly cortical dementia	56267009	93568017	32
+57341000006119	399	G64z1	G64z100	Wallenberg's syndrome	78569004	130374019	32
+2476647018	388	N111-1	N111.11	Vertebral artery compression syndrome	34781003	2476647018	32
+4777881000006112	369	^ESCTIN477788		"Intracerebral haemorrhage, multiple localised"	195169004	300280012	32
+5492201000006111	366	^ESCTTI549220		TIA - Transient ischaemic attack	266257000	395784018	32
+5011161000006115	348	^ESCTLA501116		Lacunar stroke	230698000	345652017	32
+3508964014	344	^ESCT1172903		Cerebrovascular accident due to thrombus of left middle cerebral artery	16002111000119106	3508964014	32
+5011191000006111	325	^ESCTPU501119		Pure motor lacunar infarction	230699008	345656019	32
+3509794017	323	^ESCT1172900		Cerebrovascular accident due to occlusion of left middle cerebral artery	16000511000119103	3509794017	32
+7289121000006119	318	^ESCTRE728912		Recurrent transient cerebral ischaemic attack	444172003	2840804011	32
+3508961018	314	^ESCT1172901		Cerebrovascular accident due to thrombus of right middle cerebral artery	16002031000119102	3508961018	32
+2622631000006114	303	^ESCTIN262263		Intrapontine haemorrhage	7713009	503468012	32
+2901571000006113	267	^ESCTCO290157		Completed stroke	25133001	42129011	32
+3505637014	256	^ESCT1170857		Occlusion of left middle cerebral artery	3.29491E+14	3505637014	32
+6348291000006115	256	^ESCTTH634829		Thrombotic stroke	371040005	1209750017	32
+7839991000006115	256	^ESCTSI783999		Silent cerebral infarct	723082006	3334556014	32
+5011451000006114	247	^ESCTST501145		Stroke of uncertain pathology	230713003	345680015	32
+370661000006114	232	Gyu6G	Gyu6G00	[X]Cereb infarct due unsp occlus/stenos precerebr arteries	1.25081E+14	3042974014	32
+3509810017	228	^ESCT1172899		Cerebrovascular accident due to occlusion of right middle cerebral artery	16000431000119109	3509810017	32
+5011141000006119	211	^ESCTPO501114		Posterior cerebral circulation stroke	230696001	2966565019	32
+3508955016	209	^ESCT1170860		Cerebrovascular accident due to thrombus of basilar artery	3.29641E+14	3508955016	32
+13909901000006119	208	^ESCT1390990		Cerebral ischaemic stroke co-occurrent with subarachnoid haemorrhage	788884002	3786072018	32
+3511959014	205	^ESCT1164367		Thrombosis of left middle cerebral artery	734383005	3511959014	32
+7855631000006111	200	^ESCTCE785563		Cerebral ischaemic stroke due to small artery occlusion	724424009	3438036013	32
+3505639012	199	^ESCT1170856		Occlusion of right middle cerebral artery	3.29481E+14	3505639012	32
+6990991000006112	196	^ESCTIS699099		Ischemic stroke	422504002	2644233012	32
+14014251000006116	195	^ESCT1401425		Cerebrovascular accident due to occlusion of bilateral pontine arteries	16644681000119102	3780817010	32
+14182621000006113	195	^ESCT1418262		Cryptogenic stroke	16891111000119104	4009580018	32
+3511955015	193	^ESCT1164369		Thrombosis of right middle cerebral artery	734384004	3511955015	32
+7067291000006113	192	^ESCTIN706729		Infarction of medulla oblongata	426983002	2675250011	32
+13909881000006116	188	^ESCT1390988		Cerebral ischaemic stroke due to global hypoperfusion with watershed infarct	788882003	3786067010	32
+746571000006116	182	G618	G618.00	"Intracerebral haemorrhage, multiple localized"	195169004	300280012	32
+5011211000006112	182	^ESCTPU501121		Pure sensory lacunar infarction	230700009	345657011	32
+5011111000006118	180	^ESCTPA501111		Partial anterior cerebral circulation stroke	230695002	345647010	32
+605481000006110	176	L440-1	L440.11	CVA - cerebrovascular accident in the puerperium	275434003	411416011	32
+300352012	174	G65z0	G65z000	Impending cerebral ischaemia	195205001	300352012	32
+3777981000006119	167	^ESCTPO377798		Posterior inferior cerebellar artery syndrome	78569004	130373013	32
+14518481000006115	164	^ESCT1451848		Cerebrovascular accident of basal ganglia	595899961000119100	4577269010	32
+14194801000006111	163	^ESCT1419480		Acute cerebrovascular accident due to ischaemia	762005171000119101	4011866011	32
+4056931000006116	163	^ESCTBR405693		Brain stem haemorrhage	95454007	512138014	32
+300276019	157	G616	G616.00	External capsule haemorrhage	195167002	300276019	32
+5011121000006114	156	^ESCTPA501112		PACS - Partial anterior cerebral circulation stroke	230695002	345648017	32
+14194811000006114	156	^ESCT1419481		Acute ischaemic stroke	762005171000119101	4011863015	32
+2729551000000111	152	^ESCT1171762		Cerebral infarction due to occlusion of cerebral artery	1089411000000104	2729551000000111	32
+3507383012	150	^ESCT1170710		Spontaneous haemorrhage of cortical intracerebral hemisphere	2.91521E+14	3507383012	32
+345639010	149	G63-1	G63..11	Infarction - precerebral	230692004	345639010	32
+12223121000006111	133	^ESCT1222312		ICH - intracerebral haemorrhage	274100004	3673217012	32
+14518501000006113	129	^ESCT1451850		Cerebrovascular accident of brainstem	652287331000119104	4577270011	32
+5589641000006112	119	^ESCTIN558964		Intracerebellar and posterior fossa haemorrhage	276722003	412998018	32
+2729571000000119	112	^ESCT1171763		Cerebral infarction due to stenosis of cerebral artery	1089421000000105	2729571000000119	32
+13718621000006117	100	^ESCT1371862		History of cerebrovascular accident due to ischaemia	16896891000119106	3774524018	32
+14802151000006119	97	^ESCT1480215		Cerebrovascular accident with intracranial haemorrhage	5.571E+12	4964984018	32
+5011241000006111	95	^ESCTLA501124		Lacunar ataxic hemiparesis	230702001	345660016	32
+3512176011	89	^ESCT1164937		Embolus of left middle cerebral artery	734964005	3512176011	32
+5011071000006114	87	^ESCTTO501107		Total anterior cerebral circulation stroke	230694003	345642016	32
+5011521000006118	85	^ESCTVE501152		Vertebrobasilar territory transient ischaemic attack	230717002	345689019	32
+13909861000006114	83	^ESCT1390986		Cerebral ischaemic stroke due to dissection of artery	788880006	3787578016	32
+11920121000006117	82	^ESCT1192012		Transient cerebral ischemia	266257000	395785017	32
+5011351000006119	81	^ESCTPO501135		Posterior cerebral circulation haemorrhagic infarction	230708002	345671015	32
+14790901000006117	79	^ESCT1479090		Malignant middle cerebral artery syndrome	1231168008	5071735019	32
+8031281000006118	79	^ESCTCE803128		Cerebral infarction due to stenosis of carotid artery	9.9451E+13	2967601013	32
+2832651000006111	76	^ESCTSU283265		Subcortical haemorrhage	20908003	480871019	32
+483988011	76	G615	G615.00	Bulbar haemorrhage	732923001	3467313018	32
+3509790014	74	^ESCT1172898		Cerebrovascular accident due to occlusion of right posterior cerebral artery	16000391000119104	3509790014	32
+1235534016	73	F21y2-1	F21y211	Binswanger's encephalopathy	90099008	1235534016	32
+3512178012	71	^ESCT1164938		Embolus of right middle cerebral artery	734965006	3512178012	32
+14493231000006118	70	^ESCT1449323		Cerebrovascular accident due to embolism of bilateral middle cerebral arteries	939885431000119109	4577045018	32
+5011431000006119	67	^ESCTLA501143		Lacunar haemorrhage	230712008	345679018	32
+14492741000006110	67	^ESCT1449274		Stroke of thalamus	769023031000119104	4577286016	32
+12223111000006115	66	^ESCT1222311		Intracerebral hemorrhage	274100004	3673216015	32
+5011081000006112	64	^ESCTTA501108		TACS - Total anterior cerebral circulation stroke	230694003	345643014	32
+5011101000006116	60	^ESCTPA501110		PACI - Partial anterior cerebral circulation infarction	230695002	345646018	32
+14492861000006116	56	^ESCT1449286		Cerebrovascular accident due to thrombosis of left posterior cerebral artery	851365731000119106	4577051011	32
+14492211000006118	55	^ESCT1449221		Cerebrovascular accident due to occlusion of bilateral middle cerebral arteries	188174841000119103	4577071019	32
+3507370011	55	^ESCT1170714		Spontaneous haemorrhage of cerebral hemisphere	2.91531E+14	3507370011	32
+5011171000006110	54	^ESCTLA501117		LACI - Lacunar infarction	230698000	345653010	32
+3511086012	53	^ESCT1172869		Thrombosis of right vertebral artery	15978431000119106	3511086012	32
+4270361000006116	52	^ESCTPA427036		Paralytic stroke	116288000	178738015	32
+5011501000006111	52	^ESCTAN501150		Anterior circulation transient ischemic attack	230716006	345685013	32
+3505651014	52	^ESCT1170859		Occlusion of left posterior cerebral artery	3.29571E+14	3505651014	32
+300345010	47	G654	G654.00	Multiple and bilateral precerebral artery syndromes	195201005	300345010	32
+14492571000006113	46	^ESCT1449257		Cerebrovascular accident due to occlusion of right anterior cerebral artery	655081461000119101	4577069019	32
+14492751000006112	44	^ESCT1449275		Thalamic stroke	769023031000119104	4578629016	32
+3778021000006116	43	^ESCTLM377802		LMS - Lateral medullary syndrome	78569004	1234269010	32
+4193641000006111	42	^ESCTNO419364		Nonparalytic stroke	111297002	178528011	32
+14457701000006115	41	^ESCT1445770		Left posterior cerebral artery thrombosis	1156016006	4572073014	32
+3508965010	39	^ESCT1172904		Stroke due to thrombus of left middle cerebral artery	16002111000119106	3508965010	32
+3508962013	37	^ESCT1172902		Stroke due to thrombus of right middle cerebral artery	16002031000119102	3508962013	32
+9875641000006111	36	^ESCTCE987564		Cerebrovascular accident due to right carotid artery occlusion	16023911000119108	3308761018	32
+2622651000006119	35	^ESCTPO262265		Pontine hemorrhage	7713009	13756016	32
+5011551000006110	34	^ESCTPO501155		Posterior circulation transient ischaemic attack	230717002	345690011	32
+3505653012	34	^ESCT1170858		Occlusion of right posterior cerebral artery	3.29561E+14	3505653012	32
+14493261000006110	34	^ESCT1449326		Cerebrovascular accident due to thrombosis of left cerebellar artery	957319791000119104	4577289011	32
+9875961000006115	33	^ESCTCE987596		Cerebrovascular accident due to left carotid artery stenosis	16026991000119107	3308763015	32
+3509792018	32	^ESCT1172973		Cerebrovascular accident due to occlusion of left carotid artery	16024111000119109	3509792018	32
+5912811000006111	32	^ESCTIN591281		Infarction of visual cortex	302904002	444898010	32
+14194611000006113	32	^ESCT1419461		Acute cerebrovascular accident of basal ganglia	595899961000119100	4015877011	32
+3441831000006111	31	^ESCTPR344183		Progressing stroke	57981008	96390010	32
+3509799010	30	^ESCT1172897		Cerebrovascular accident due to occlusion of left posterior cerebral artery	16000351000119109	3509799010	32
+9875951000006117	30	^ESCTCE987595		Cerebrovascular accident due to right carotid artery stenosis	16026951000119102	3308759010	32
+14492231000006112	30	^ESCT1449223		Cerebrovascular accident due to occlusion of basilar artery	239965291000119107	4577282019	32
+3510963013	30	^ESCT1170822		Lacunar ataxic hemiparesis of left dominant side	2.92861E+14	3510963013	32
+5011061000006119	29	^ESCTTA501106		TACI - Total anterior cerebral circulation infarction	230694003	345641011	32
+3636136012	29	^ESCT1170850		Cerebrovascular accident due to occlusion of left middle cerebral artery by embolus	3.29371E+14	3636136012	32
+3508958019	29	^ESCT1170862		Cerebrovascular accident due to thrombus of right carotid artery	3.29651E+14	3508958019	32
+13717171000006112	28	^ESCT1371717		Cerebrovascular accident due to stenosis of bilateral carotid arteries	16661971000119104	3773590013	32
+14457741000006118	27	^ESCT1445774		Left cerebellar artery thrombosis	1156018007	4572076018	32
+5011541000006113	27	^ESCTPO501154		Posterior circulation transient ischemic attack	230717002	345688010	32
+14489491000006119	27	^ESCT1448949		Cerebrovascular accident due to thrombosis of right posterior cerebral artery	38595071000119104	4577054015	32
+14014281000006112	26	^ESCT1401428		Cerebrovascular accident due to stenosis of bilateral vertebral arteries	16661931000119102	3780821015	32
+3510961010	26	^ESCT1170821		Lacunar ataxic hemiparesis of right dominant side	2.92851E+14	3510961010	32
+7064691000006118	26	^ESCTTR706469		Transient cerebral ischaemia due to atrial fibrillation	426814001	2675245017	32
+5011231000006118	25	^ESCTPU501123		Pure sensorimotor lacunar infarction	230701008	345659014	32
+14518541000006110	25	^ESCT1451854		Cerebrovascular accident due to embolism of basilar artery	915141931000119109	4577259016	32
+14492321000006119	24	^ESCT1449232		Cerebrovascular accident due to embolism of left anterior cerebral artery	251770561000119107	4577022012	32
+14457761000006119	23	^ESCT1445776		Right cerebellar artery thrombosis	1156019004	4572078017	32
+14457901000006117	22	^ESCT1445790		Cerebral venous sinus thrombosis in puerperium	1156029006	4571838013	32
+15215481000006114	22	^ESCT1521548		Infarction of brain due to migraine	1263550001	5169057016	32
+5011331000006114	22	^ESCTAN501133		Anterior cerebral circulation haemorrhagic infarction	230707007	345668011	32
+3507359016	22	^ESCT1170718		Spontaneous haemorrhage of brain stem	2.91541E+14	3507359016	32
+14492471000006114	22	^ESCT1449247		Cerebrovascular accident due to thrombosis of right cerebellar artery	496369931000119104	4577292010	32
+14194211000006110	22	^ESCT1419421		Acute cerebrovascular accident due to occlusion of left middle cerebral artery	63230211000119103	3993157012	32
+3636970014	22	^ESCT1169371		Occlusion of left middle cerebral artery by embolus	762630002	3636970014	32
+5011511000006114	21	^ESCTCA501151		Carotid territory transient ischemic attack	230716006	345686014	32
+3508952018	21	^ESCT1170889		Cerebrovascular accident due to thrombus of left carotid artery	3.30791E+14	3508952018	32
+13967201000006117	21	^ESCT1396720		Occlusion of branch of basilar artery	870579007	3970236017	32
+15048621000006117	19	^ESCT1504862		Haemorrhagic cerebral infarction due to hypertension	1260271009	5159959019	32
+3964591000006117	19	^ESCTSU396459		Subcortical leucoencephalopathy	90099008	508841015	32
+14492481000006112	18	^ESCT1449248		Stroke due to thrombosis of right cerebellar artery	496369931000119104	4577294011	32
+14194641000006112	18	^ESCT1419464		Acute cerebrovascular accident of brainstem	652287331000119104	4016003015	32
+14457721000006113	17	^ESCT1445772		Right posterior cerebral artery thrombosis	1156017002	4572077010	32
+14457851000006110	17	^ESCT1445785		Cerebral venous sinus thrombosis in pregnancy	1156027008	4571837015	32
+3509781019	17	^ESCT1172975		Cerebrovascular accident due to occlusion of right cerebellar artery	16024271000119107	3509781019	32
+5011261000006110	17	^ESCTMU501126		Multi-infarct state	230704000	345662012	31
+14194191000006114	17	^ESCT1419419		Acute cerebrovascular accident due to stenosis of left carotid artery	46583221000119102	3993137013	32
+7855711000006113	17	^ESCTST785571		Stroke co-occurrent with migraine	724429004	3498186019	32
+14194741000006118	17	^ESCT1419474		Acute cerebrovascular accident due to occlusion of right cerebellar artery	738478141000119101	3993407012	32
+14451971000006119	16	^ESCT1445197		Occlusion of anterior cerebral artery	1153543002	4564993018	32
+14492191000006119	16	^ESCT1449219		Cerebrovascular accident due to occlusion of left anterior cerebral artery	182960891000119101	4577065013	32
+3636143018	16	^ESCT1170854		Cerebrovascular accident due to occlusion of left cerebellar artery by embolus	3.29461E+14	3636143018	32
+14194661000006111	16	^ESCT1419466		Acute cerebrovascular accident due to stenosis of right carotid artery	693158221000119105	3993384019	32
+4777811000006117	14	^ESCTBA477781		Basal ganglia hemorrhage	195165005	300271012	32
+988951000006117	14	G65-99	G65..99	Transient Ischaemic Attacks	266257000	9.88951E+14	32
+3636133016	14	^ESCT1170849		Cerebrovascular accident due to occlusion of right middle cerebral artery by embolus	3.29361E+14	3636133016	32
+3509817019	14	^ESCT1170855		Left hemispheric cerebellar artery embolism with stroke	3.29461E+14	3509817019	32
+13966821000006114	14	^ESCT1396682		Occlusion of distal basilar artery	870544005	3970077012	32
+14451991000006118	13	^ESCT1445199		Occlusion of left anterior cerebral artery	1153545009	4564996014	32
+14732521000006114	13	^ESCT1473252		Paediatric arterial ischaemic stroke	1197363004	4696024011	32
+13718601000006110	13	^ESCT1371860		History of embolic cerebrovascular accident	16896851000119101	3774528015	32
+5649201000006113	13	^ESCTEX564920		Extension of cerebrovascular accident	281240008	419214014	32
+3512174014	13	^ESCT1164936		Embolus of right posterior cerebral artery	734963004	3512174014	32
+14492841000006115	13	^ESCT1449284		Cerebrovascular accident due to occlusion of right posterior communicating artery	849579281000119106	4577080019	32
+14492871000006111	13	^ESCT1449287		Stroke due to thrombosis of left posterior cerebral artery	851365731000119106	4577050012	32
+4540591000006113	12	^ESCTHI454059		History of transient ischemic attack	161511000	2986735018	32
+5011251000006113	12	^ESCTDY501125		Dysarthria-clumsy hand syndrome	230703006	345661017	32
+411416011	12	L440-2	L440.12	Stroke in the puerperium	275434003	411416011	32
+2726591000006119	11	^ESCTAN272659		Anterior choroidal artery syndrome	14309005	24333016	32
+5011181000006113	11	^ESCTLI501118		LI - Lacunar infarction	230698000	345654016	32
+5011421000006117	11	^ESCTTH501142		Thalamic hemorrhage	230711001	345677016	32
+12223131000006114	11	^ESCT1222313		ICH - intracerebral hemorrhage	274100004	3673218019	32
+6837051000006119	11	^ESCTBA683705		Basal ganglion stroke	413102000	2966612019	32
+7295961000006113	11	^ESCTSU729596		Superior cerebellar artery syndrome	444657001	2872687017	32
+14492701000006113	11	^ESCT1449270		Cerebrovascular accident due to thrombosis of left vertebral artery	759950981000119101	4577295012	32
+14194981000006114	11	^ESCT1419498		Acute stroke due to embolism of left middle cerebral artery	936648941000119105	4011848018	32
+14452831000006118	10	^ESCT1445283		Bilateral embolism of middle cerebral arteries	1153632001	4565440018	32
+14742481000006110	10	^ESCT1474248		Asymptomatic occlusion of intracranial vertebral artery	1204189004	4952563016	32
+4777861000006119	10	^ESCTIN477786		Intracerebral haemorrhage with intraventricular haemorrhage	195168007	2915438018	32
+14194491000006118	10	^ESCT1419449		Acute cerebrovascular accident due to occlusion of right carotid artery	407573811000119100	4011845015	32
+3512170017	10	^ESCT1164935		Embolus of left posterior cerebral artery	734961002	3512170017	32
+14194721000006113	10	^ESCT1419472		Acute cerebrovascular accident due to thrombosis of right middle cerebral artery	738211801000119107	3993388016	32
+3636969013	10	^ESCT1169370		Occlusion of right middle cerebral artery by embolus	762629007	3636969013	32
+2893541000006113	9	^ESCTWE289354		Weber-Gubler syndrome	24654003	41324013	32
+13909871000006119	9	^ESCT1390987		Cerebral ischaemic stroke due to aortic arch embolism	788881005	3786063014	32
+14194941000006115	9	^ESCT1419494		Acute cerebrovascular accident due to embolism of right middle cerebral artery	931164671000119105	4011851013	32
+14194971000006111	9	^ESCT1419497		Acute cerebrovascular accident due to embolism of left middle cerebral artery	936648941000119105	4011849014	32
+4056951000006111	9	^ESCTBR405695		Brainstem haemorrhage	95454007	1217312010	32
+14452581000006115	8	^ESCT1445258		Occlusion of right posterior communicating artery	1153607003	4565258014	32
+3509769018	8	^ESCT1172974		Cerebrovascular accident due to occlusion of left cerebellar artery	16024151000119105	3509769018	32
+5582321000006119	8	^ESCTFO558232		Foville syndrome	276220007	412271011	32
+3506623013	8	^ESCT1170669		Dysphagia due to and following non-traumatic intracerebral haemorrhage	2.90641E+14	3506623013	32
+3508956015	8	^ESCT1170861		Stroke due to basilar artery thrombus	3.29641E+14	3508956015	32
+14492821000006110	8	^ESCT1449282		Cerebrovascular accident due to embolism of right anterior cerebral artery	849488701000119104	4577023019	32
+14451981000006116	7	^ESCT1445198		Occlusion of right anterior cerebral artery	1153544008	4564995013	32
+14452791000006113	7	^ESCT1445279		Embolism of left carotid artery	1153630009	4565400012	32
+14452811000006112	7	^ESCT1445281		Embolism of right carotid artery	1153631008	4565397015	32
+5009041000006115	7	^ESCTIN500904		Infarction of optic tract	230518009	345424016	32
+6837061000006117	7	^ESCTBA683706		Basal ganglion infarct	413102000	2966650013	32
+7289131000006116	7	^ESCTRE728913		Recurrent transient cerebral ischemic attack	444172003	2840805012	32
+15304181000006112	7	^ESCT1530418		Cerebrovascular accident due to thrombosis of bilateral carotid arteries	563789641000119101	5183331011	32
+13905301000006116	7	^ESCT1390530		Bilateral occlusion of pontine arteries	788455001	3780986012	32
+15236651000006117	6	^ESCT1523665		Thrombosis of anterior cerebral artery	1269238002	5183322011	32
+15294751000006112	6	^ESCT1529475		Cerebrovascular accident due to occlusion of bilateral carotid arteries	16644541000119106	5183387015	32
+13718611000006113	6	^ESCT1371861		History of embolic stroke	16896851000119101	3774529011	32
+13718641000006112	6	^ESCT1371864		History of ischaemic stroke	16896891000119106	3774555012	32
+15303461000006113	6	^ESCT1530346		Cerebrovascular accident due to thrombosis of left anterior cerebral artery	195772021000119105	5183315015	32
+14492331000006116	6	^ESCT1449233		Stroke due to embolism of left anterior cerebral artery	251770561000119107	4577021017	32
+13909891000006118	6	^ESCT1390989		Cerebral ischaemic stroke due to hypercoagulable state	788883008	3786069013	32
+4057031000006117	6	^ESCTBR405703		Brain stem infarct	95457000	158114011	32
+14194341000006119	5	^ESCT1419434		Acute stroke due to occlusion of right middle cerebral artery	272202251000119109	3993164014	32
+5582351000006111	5	^ESCTTO558235		Top of basilar syndrome	276222004	412273014	32
+14172901000006118	5	^ESCT1417290		Bilateral occlusion of middle cerebral arteries	3.29501E+14	3993144016	32
+14492421000006113	5	^ESCT1449242		Cerebrovascular accident due to embolism of right carotid artery	384430101000119103	4577036019	32
+14194571000006115	5	^ESCT1419457		Acute cerebrovascular accident due to occlusion of left carotid artery	502836591000119106	4011843010	32
+14492911000006114	5	^ESCT1449291		Cerebrovascular accident due to embolism of left carotid artery	859422751000119101	4577033010	32
+14452631000006117	4	^ESCT1445263		Embolism of right anterior cerebral artery	1153612002	4565437018	32
+14742691000006111	4	^ESCT1474269		Infective occlusion of cerebral artery	1204202004	4953603016	32
+15236701000006111	4	^ESCT1523670		Bilateral thrombosis of carotid arteries	1269243009	5183335019	32
+14194281000006115	4	^ESCT1419428		Acute cerebrovascular accident due to occlusion of right posterior cerebral artery	137592291000119101	3993169016	32
+15293291000006113	4	^ESCT1529329		Cerebrovascular accident due to occlusion of right anterior choroidal artery	16024071000119102	5183414015	32
+2832661000006113	4	^ESCTSU283266		Subcortical hemorrhage	20908003	35158017	32
+3636141016	4	^ESCT1170853		Cerebrovascular accident due to occlusion of right cerebellar artery by embolus	3.29451E+14	3636141016	32
+14492491000006110	4	^ESCT1449249		Cerebrovascular accident due to thrombosis of right vertebral artery	511452481000119102	4577300014	32
+3414261000006114	4	^ESCTMU341426		Multi infarct dementia	56267009	2921000019	32
+14491921000006111	4	^ESCT1449192		Cerebrovascular accident due to embolism of bilateral cerebellar arteries	58173271000119101	4577040011	32
+14194651000006114	4	^ESCT1419465		Acute stroke of brainstem	652287331000119104	4016004014	32
+14492661000006117	4	^ESCT1449266		Cerebrovascular accident due to embolism of bilateral vertebral arteries	732330391000119107	4577262018	32
+14194841000006113	4	^ESCT1419484		Acute cerebrovascular accident due to occlusion of left cerebellar artery	788310011000119109	3993410017	32
+14518521000006115	4	^ESCT1451852		Cerebrovascular accident of medulla oblongata	881694631000119107	4577160018	32
+3964671000006119	4	^ESCTCH396467		Chronic progressive subcortical encephalopathy	90099008	1235537011	32
+14194951000006118	4	^ESCT1419495		Acute stroke due to embolism of right middle cerebral artery	931164671000119105	4011852018	32
+14452591000006117	3	^ESCT1445259		Occlusion of left posterior communicating artery	1153608008	4565260011	32
+14453391000006118	3	^ESCT1445339		Bilateral embolism of carotid arteries	1155688007	4569577015	32
+14492111000006112	3	^ESCT1449211		Cerebrovascular accident due to occlusion of left posterior communicating artery	117776611000119102	4577076012	32
+15236791000006116	3	^ESCT1523679		Bilateral thrombosis of vertebral arteries	1269246001	5183351010	32
+3510818013	3	^ESCT1173137		Acute cerebral ischemia	16218291000119100	3510818013	32
+14492161000006110	3	^ESCT1449216		Cerebrovascular accident due to embolism of bilateral posterior cerebral arteries	168747591000119109	4577048016	32
+14194331000006112	3	^ESCT1419433		Acute cerebrovascular accident due to occlusion of right middle cerebral artery	272202251000119109	3993162013	32
+3507363011	3	^ESCT1170706		Spontaneous haemorrhage of deep cerebral hemisphere	2.91511E+14	3507363011	32
+14194201000006112	3	^ESCT1419420		Acute stroke due to stenosis of left carotid artery	46583221000119102	3993136016	32
+14194621000006117	3	^ESCT1419462		Acute stroke of basal ganglia	595899961000119100	4015875015	32
+3505881015	3	^ESCT1164370		Right middle cerebral artery thrombosis	734384004	3505881015	32
+14194731000006111	3	^ESCT1419473		Acute stroke due to thrombosis of right middle cerebral artery	738211801000119107	3993387014	32
+3719851000006116	3	^ESCTCE371985		Cerebellar hemorrhage	75038005	124627016	32
+15304561000006111	3	^ESCT1530456		Cerebrovascular accident due to thrombosis of right anterior cerebral artery	828066161000119106	5183317011	32
+14492851000006118	3	^ESCT1449285		Stroke due to occlusion of right posterior communicating artery	849579281000119106	4577079017	32
+3964651000006112	3	^ESCTSU396465		Subcortical arteriosclerotic encephalopathy	90099008	1235535015	32
+4057041000006110	3	^ESCTBR405704		Brain stem stroke	95457000	2966556014	32
+4057051000006112	3	^ESCTIN405705		Infarction of brain stem	95457000	2966602014	32
+14452011000006118	2	^ESCT1445201		Occlusion of both posterior cerebral arteries	1153546005	4565022014	32
+14452621000006115	2	^ESCT1445262		Embolism of left anterior cerebral artery	1153611009	4565266017	32
+14453431000006112	2	^ESCT1445343		Bilateral embolism of cerebellar arteries	1155689004	4569585012	32
+14726211000006119	2	^ESCT1472621		Fetal epilepsy due to perinatal stroke	1179360000	4651659015	32
+14752491000006111	2	^ESCT1475249		Transient ischaemic attack co-occurrent with subarachnoid haemorrhage	1208871009	5013600018	32
+15236641000006119	2	^ESCT1523664		Cerebrovascular accident due to thrombosis of anterior cerebral artery	1269237007	5183319014	32
+15236661000006115	2	^ESCT1523666		Thrombosis of left anterior cerebral artery	1269239005	5183323018	32
+14492201000006116	2	^ESCT1449220		Stroke due to occlusion of left anterior cerebral artery	182960891000119101	4577064012	32
+14492221000006114	2	^ESCT1449222		Stroke due to occlusion of bilateral middle cerebral arteries	188174841000119103	4577070018	32
+4777871000006114	2	^ESCTIN477787		Intracerebral hemorrhage with intraventricular hemorrhage	195168007	2916313015	32
+2832671000006118	2	^ESCTSU283267		Subcortical cerebral haemorrhage	20908003	1216115011	32
+5009091000006112	2	^ESCTIN500909		Infarction of optic radiation	230523009	345429014	32
+5011301000006118	2	^ESCTHE501130		Hemorrhagic cerebral infarction	230706003	345666010	32
+5011531000006115	2	^ESCTVE501153		Vertebrobasilar territory transient ischemic attack	230717002	345687017	32
+5492181000006110	2	^ESCTTE549218		Temporary cerebral vascular dysfunction	266257000	395782019	32
+3507382019	2	^ESCT1170713		Spontaneous hemorrhage of cortical intracerebral hemisphere	2.91521E+14	3507382019	32
+3510959018	2	^ESCT1170881		Lacunar ataxic hemiparesis of left nondominant side	3.30411E+14	3510959018	32
+3510965018	2	^ESCT1170882		Lacunar ataxic hemiparesis of right nondominant side	3.30421E+14	3510965018	32
+14492341000006114	2	^ESCT1449234		Cerebrovascular accident due to occlusion of bilateral cerebellar arteries	346674811000119104	4577275018	32
+14194151000006115	2	^ESCT1419415		Acute cerebrovascular accident due to occlusion of left posterior cerebral artery	40076141000119107	3993165010	32
+14194161000006118	2	^ESCT1419416		Acute stroke due to occlusion of left posterior cerebral artery	40076141000119107	3993167019	32
+14194501000006114	2	^ESCT1419450		Acute stroke due to occlusion of right carotid artery	407573811000119100	4011846019	32
+14492501000006119	2	^ESCT1449250		Stroke due to thrombosis of right vertebral artery	511452481000119102	4577299018	32
+14492511000006116	2	^ESCT1449251		Cerebrovascular accident due to embolism of left vertebral artery	517253051000119105	4577266015	32
+14194221000006119	2	^ESCT1419422		Acute stroke due to occlusion of left middle cerebral artery	63230211000119103	3993158019	32
+7855641000006118	2	^ESCTCE785564		Cerebral ischemic stroke due to small artery occlusion	724424009	3438035012	32
+7855721000006117	2	^ESCTST785572		Stroke and migraine	724429004	3498187011	32
+7951271000006116	2	^ESCTHA795127		Haemorrhage of medulla oblongata	732923001	3467314012	32
+3505883017	2	^ESCT1164368		Left middle cerebral artery thrombosis	734383005	3505883017	32
+3719861000006119	2	^ESCTHA371986		Haemorrhagic cerebellum	75038005	124628014	32
+14492941000006113	2	^ESCT1449294		Cerebrovascular accident due to occlusion of bilateral vertebral arteries	898941951000119108	4577279012	32
+3964661000006114	2	^ESCTSU396466		Subcortical atherosclerotic dementia	90099008	1235536019	32
+4056941000006114	2	^ESCTBR405694		Brain stem hemorrhage	95454007	158109012	32
+14452001000006116	1	^ESCT1445200		Bilateral occlusion of posterior cerebral arteries	1153546005	4565023016	32
+14452861000006110	1	^ESCT1445286		Bilateral embolism of posterior cerebral arteries	1153633006	4565444010	32
+14452891000006119	1	^ESCT1445289		Bilateral embolism of anterior cerebral arteries	1153634000	4565446012	32
+15293301000006114	1	^ESCT1529330		Stroke due to occlusion of right anterior choroidal artery	16024071000119102	5183416018	32
+14516811000006114	1	^ESCT1451681		Idiopathic ischaemic stroke	16891111000119104	4553056016	32
+15303471000006118	1	^ESCT1530347		Stroke due to thrombosis of left anterior cerebral artery	195772021000119105	5183313010	32
+2818821000006111	1	^ESCTOC281882		Occlusion of cerebral artery	20059004	2966627019	32
+5011361000006117	1	^ESCTPO501136		Posterior cerebral circulation hemorrhagic infarction	230708002	345670019	32
+5011371000006112	1	^ESCTMA501137		Massive supratentorial cerebral haemorrhage	230709005	345672010	32
+14492241000006119	1	^ESCT1449224		Stroke due to occlusion of basilar artery	239965291000119107	4577283012	32
+2893551000006110	1	^ESCTWE289355		Weber syndrome	24654003	1223895018	32
+989201000006117	1	G61-99	G61..99	Cerebral haemorrhage	274100004	9.89201E+14	32
+989211000006119	1	G61-98	G61..98	Cerebral haemorrhage NOS	274100004	9.89211E+14	32
+5582331000006116	1	^ESCTMI558233		Millard-Gubler syndrome	276221006	412272016	32
+5589651000006114	1	^ESCTIN558965		Intracerebellar and posterior fossa hemorrhage	276722003	412997011	32
+3636139017	1	^ESCT1170852		Cerebrovascular accident due to occlusion of left posterior cerebral artery by embolus	3.29431E+14	3636139017	32
+14172931000006114	1	^ESCT1417293		Bilateral occlusion of anterior cerebral arteries	3.29541E+14	3993148018	32
+14492431000006111	1	^ESCT1449243		Stroke due to embolism of right carotid artery	384430101000119103	4577035015	32
+3346051000006110	1	^ESCTIN334605		Internal capsule hemorrhage	52201006	86879010	32
+3414231000006117	1	^ESCTMI341423		MID - Multi-infarct dementia	56267009	497558012	32
+3441841000006118	1	^ESCTST344184		Stroke-in-evolution syndrome	57981008	96391014	32
+14491941000006116	1	^ESCT1449194		Stroke due to embolism of bilateral cerebellar arteries	58173271000119101	4577039014	32
+3540781000006117	1	^ESCTVE354078		Vertebrobasilar arterial insufficiency	64009001	106393010	32
+14492581000006111	1	^ESCT1449258		Stroke due to occlusion of right anterior cerebral artery	655081461000119101	4577068010	32
+3728451000006116	1	^ESCTCE372845		Cerebral arterial embolism	75543006	125471016	32
+3637002014	1	^ESCT1169388		Occlusion of left posterior cerebral artery by embolus	762652006	3637002014	32
+14492771000006119	1	^ESCT1449277		Stroke due to embolism of right vertebral artery	806161651000119106	4579823014	32
+14492921000006118	1	^ESCT1449292		Stroke due to embolism of left carotid artery	859422751000119101	4577034016	32
+14493251000006113	1	^ESCT1449325		Stroke due to embolism of bilateral middle cerebral arteries	939885431000119109	4577043013	32
+14493271000006115	1	^ESCT1449327		Stroke due to thrombosis of left cerebellar artery	957319791000119104	4577290019	32
+809421000006116	177874	14A7	14A7.00	History of cerebrovascular accident	275526006	2986886017	32
+2476091017	43398	14A7-2	14A7.12	H/O: stroke	275526006	2476091017	32
+264499015	640130	662M	662M.00	Stroke monitoring	170600009	264499015	1
+265692011	1767	70043	7004300	Evacuation of intracerebral haematoma	10458001	279429014	32
+297013012	653	F11x2	F11x200	Cerebral degeneration due to cerebrovascular disease	192813004	297013012	32
+104563015	828095	G6	G6...00	Cerebrovascular disease	62914000	104563015	32
+481028017	221849	G60	G60..00	Subarachnoid haemorrhage	21454007	481028017	32
+300242011	1973	G600	G600.00	Ruptured berry aneurysm	195154000	300242011	32
+300244012	67	G601	G601.00	Subarachnoid haemorrhage from carotid siphon and bifurcation	195155004	300244012	32
+123511000006114	2311	G602	G602.00	Subarachnoid haemorrhage from middle cerebral artery	21454007	36011016	32
+123481000006118	1710	G603	G603.00	Subarachnoid haemorrhage from anterior communicating artery	21454007	36011016	32
+123521000006118	873	G604	G604.00	Subarachnoid haemorrhage from posterior communicating artery	21454007	36011016	32
+123491000006115	492	G605	G605.00	Subarachnoid haemorrhage from basilar artery	276284000	412361011	32
+300253017	84	G606	G606.00	Subarachnoid haemorrhage from vertebral artery	195160000	300253017	32
+123441000006112	827	G60X	G60X.00	"Subarachnoid haemorrh from intracranial artery, unspecif"	21454007	481028017	32
+300257016	3964	G60z	G60z.00	Subarachnoid haemorrhage NOS	21454007	481028017	32
+744901000006114	99833	G61	G61..00	Intracerebral haemorrhage (ICH)	274100004	2819959010	32
+605471000006112	57316	G61-1	G61..11	Cerebral hemorrhage	274100004	409859018	32
+122371000006118	46008	G61-2	G61..12	Cerebral haemorrhage	274100004	409860011	32
+502878012	13505	G613	G613.00	Cerebellar haemorrhage	75038005	502878012	32
+300277011	6021	G617	G617.00	"Intracerebral haemorrhage, intraventricular"	195168007	300277011	32
+746571000006116	182	G618	G618.00	"Intracerebral haemorrhage, multiple localized"	195169004	300280012	32
+744921000006116	763	G61X	G61X.00	"Intracerebral haemorrhage in hemisphere, unspecified"	274100004	409860011	32
+748941000006115	1346	G61X0	G61X000	"Left sided intracerebral haemorrhage, unspecified"	274100004	409859018	32
+163261000006119	1379	G61X1	G61X100	"Right sided intracerebral haemorrhage, unspecified"	195168007	300277011	32
+300287010	4673	G61z	G61z.00	Intracerebral haemorrhage NOS	274100004	2819959010	32
+2534198011	43215	G623	G623.00	Subdural haemorrhage	35486000	486181011	32
+300298011	23022	G62z	G62z.00	Intracranial haemorrhage	1386000	475553012	32
+395777014	2545	G63	G63..00	Precerebral arterial occlusion	266253001	395777014	32
+126301000006113	46	G63-2	G63..12	Stenosis of precerebral artery	1055001	2858018	32
+300310019	13	G633	G633.00	Multiple and bilateral precerebral arterial occlusion	195183002	300310019	32
+300311015	219	G63y	G63y.00	Other precerebral artery occlusion	266253001	395777014	32
+300314011	626	G63z	G63z.00	Precerebral artery occlusion NOS	266253001	395777014	32
+300322016	2043	G6410	G641000	Cerebral infarction due to embolism of cerebral arteries	195190007	300322016	32
+122361000006113	34398	G64-3	G64..13	Stroke due to cerebral arterial occlusion	230691006	345638019	32
+395788015	1021424	G65	G65..00	Transient cerebral ischaemia	266257000	395788015	32
+300348012	1574	G65y	G65y.00	Other transient cerebral ischaemia	266257000	395788015	32
+95931000006111	19652	G65z	G65z.00	Transient cerebral ischaemia NOS	266257000	395788015	32
+300349016	8557	G65zz	G65zz00	Transient cerebral ischaemia NOS	266257000	395788015	32
+405339016	1198825	G66	G66..00	Cerebrovascular accident	230690007	345637012	32
+300362017	9113	G660	G660.00	Middle cerebral artery syndrome	195209007	300362017	32
+300363010	2688	G661	G661.00	Anterior cerebral artery syndrome	195210002	300363010	32
+605501000006117	597868	G66-1	G66..11	CVA unspecified	230690007	345637012	32
+122401000006115	119499	G66-2	G66..12	Stroke unspecified	230690007	345637012	32
+605491000006113	258498	G66-3	G66..13	CVA - Cerebrovascular accident	230690007	345635016	32
+300364016	3901	G662	G662.00	Posterior cerebral artery syndrome	195211003	300364016	32
+524511000006116	10608	G663	G663.00	Brainstem stroke syndrome	195212005	300365015	32
+300366019	10971	G664	G664.00	Cerebellar stroke syndrome	195213000	300366019	32
+345655015	2322	G665	G665.00	Pure motor lacunar syndrome	230699008	345655015	32
+345658018	917	G666	G666.00	Pure sensory lacunar syndrome	230700009	345658018	32
+300370010	88027	G667	G667.00	Left sided CVA	195216008	300370010	32
+300371014	81213	G668	G668.00	Right sided CVA	195217004	300371014	32
+451123015	2572	G669	G669.00	"Cerebral palsy, not congenital or infantile, acute"	307756005	451123015	32
+300374018	3042	G67	G67..00	Other cerebrovascular disease	62914000	104563015	32
+800691000006113	2356	G671	G671.00	Diffuse cerebrovascular disease	302909007	444905019	32
+300379011	1150	G671z	G671z00	Generalised ischaemic cerebrovascular disease NOS	302909007	444905019	32
+267311000006118	44	G6774	G677400	Occlusion and stenosis of multiple and bilateral cerebral arteries	195236009	300400012	32
+300401011	229	G67y	G67y.00	Other cerebrovascular disease OS	62914000	104563015	32
+300402016	555	G67z	G67z.00	Other cerebrovascular disease NOS	62914000	104563015	32
+300403014	683	G68	G68..00	Late effects of cerebrovascular disease	195239002	300403014	32
+300406018	302	G680	G680.00	Sequelae of subarachnoid haemorrhage	195240000	300406018	32
+300407010	144	G681	G681.00	Sequelae of intracerebral haemorrhage	195241001	300407010	32
+149701000006118	182	G68W	G68W.00	Sequelae/other + unspecified cerebrovascular diseases	195239002	300403014	32
+300418010	627	G6y	G6y..00	Other specified cerebrovascular disease	62914000	104563015	32
+300419019	17286	G6z	G6z..00	Cerebrovascular disease NOS	62914000	104563015	32
+370711000006115	223	Gyu6	Gyu6.00	[X]Cerebrovascular diseases	62914000	104563015	32
+300935019	118	Gyu60	Gyu6000	[X]Subarachnoid haemorrhage from other intracranial arteries	21454007	36011016	32
+300936018	349	Gyu61	Gyu6100	[X]Other subarachnoid haemorrhage	21454007	481028017	32
+300939013	1681	Gyu62	Gyu6200	Cerebral haemorrhage	274100004	409860011	32
+300942019	41	Gyu65	Gyu6500	[X]Occlusion and stenosis of other precerebral arteries	266253001	395777014	32
+300943012	4500	Gyu66	Gyu6600	Cerebral artery occlusion	20059004	33759015	32
+300956017	500	Gyu6F	Gyu6F00	"[X]Intracerebral haemorrhage in hemisphere, unspecified"	274100004	409860011	32
+402929011	2165	S620	S620.00	Subarachnoid haemorrhage following injury without open intracranial wound	28048009	483737017	32
+320735017	58	S621	S621.00	Subarachnoid haemorrhage following injury with open intracranial wound	5251007	496337012	32
+391042012	583	S62-2	S62..12	Subarachnoid haemorrhage following injury	450375008	2915309017	32
+391043019	3414	S627	S627.00	Traumatic haemorrhage into subarachnoid space of neuraxis	450375008	2915656010	32
+320835014	4721	S628	S628.00	Traumatic subdural haemorrhage	209987007	320835014	32

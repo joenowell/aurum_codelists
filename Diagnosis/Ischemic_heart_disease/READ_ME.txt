@@ -1,0 +1,1 @@
+Ischaemic heart disease codelist, edit from Kethryn E Mansfield, Dorothea Nitsch, Liam Smeeth, Krishnan Bhaskaram, Laurie A Tomlinson. PH576 / 1152 - Ischaemic Heart Disease. Phenotype Library [Online]. 06 October 2021. Available from: http://phenotypes.healthdatagateway.org/phenotypes/PH576/version/1152/detail/. [Accessed 04 September 2026]
