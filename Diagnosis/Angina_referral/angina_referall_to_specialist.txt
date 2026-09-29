@@ -1,0 +1,10 @@
+MedCodeId	Observations	OriginalReadCode	CleansedReadCode	Term	SnomedCTConceptId	SnomedCTDescriptionId	EmisCodeCategoryId
+283601019	3731017	8H44	8H44.00	Cardiological referral	183519002	283601019	40
+4724221000006119	324282	^ESCTRE472422		Referral to cardiology service	183519002	283600018	40
+284073013	54029	8HTG	8HTG.00	Referred to acute chest pain clinic	183867000	284073013	40
+284113015	166492	8HVJ	8HVJ.00	Private referral to cardiologist	183899006	284113015	40
+451824012	109046	ESCTRE9		Referral to cardiologist	308471005	451824012	40
+459475017	184068	9N0f	9N0f.00	Seen in rapid access chest pain clinic	315014005	459475017	37
+459476016	903870	8HTJ	8HTJ.00	Referral to rapid access chest pain clinic	315015006	459476016	40
+1757251000000117	144000	8Hkt	8Hkt.00	Referral to community cardiology service	785761000000105	1757251000000117	40
+2193891000000115	5771	8H440	8H44000	Referral to cardiology multidisciplinary team	845851000000106	2193891000000115	40

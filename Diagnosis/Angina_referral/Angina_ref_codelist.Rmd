@@ -1,0 +1,29 @@
+---
+title: "Statin_codelist"
+output: html_document
+date: "2026-04-01"
+---
+
+```{r}
+
+angina_ref <- data.frame(
+  medcodeid = c(
+    "283601019",
+    "4724221000006119",
+    "284073013",
+    "284113015",
+    "451824012",
+    "459475017",
+    "459476016",
+    "1757251000000117",
+    "2193891000000115"
+
+  ),
+  stringsAsFactors = FALSE
+)
+
+write.csv(angina_ref, "angina_ref.csv", row.names = FALSE)
+
+
+```
+
