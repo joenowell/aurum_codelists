@@ -1,0 +1,5 @@
+icd10	dx
+R07.1	Chest pain on breathing
+R07.2	Precordial pain
+R07.3	Other chest pain
+R07.4	Chest pain, unspecified

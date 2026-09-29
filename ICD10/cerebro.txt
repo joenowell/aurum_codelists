@@ -1,0 +1,30 @@
+icd10	dx
+I65% Occlusion and stenosis of precerebral arteries,
+     not resulting in cerebral infarction
+
+  I65.0 Vertebral artery
+  I65.1 Basilar artery
+  I65.2 Carotid artery
+  I65.3 Multiple/bilateral precerebral arteries
+  I65.8 Other precerebral arteries
+  I65.9 Unspecified precerebral artery
+
+I66% Occlusion and stenosis of cerebral arteries,
+     not resulting in cerebral infarction
+
+  I66.0 Middle cerebral artery
+  I66.1 Anterior cerebral artery
+  I66.2 Posterior cerebral artery
+  I66.3 Cerebellar arteries
+  I66.4 Multiple/bilateral cerebral arteries
+  I66.8 Other cerebral arteries
+  I66.9 Unspecified cerebral artery
+
+I69% Sequelae of cerebrovascular disease
+
+  I69.0 Sequelae of subarachnoid haemorrhage
+  I69.1 Sequelae of intracerebral haemorrhage
+  I69.2 Sequelae of other nontraumatic intracranial haemorrhage
+  I69.3 Sequelae of cerebral infarction
+  I69.4 Sequelae of stroke, not specified as haemorrhage or infarction
+  I69.8 Sequelae of other cerebrovascular diseases

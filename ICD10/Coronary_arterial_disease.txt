@@ -1,0 +1,17 @@
+icd10	dx
+I24%  Other acute ischaemic heart diseases
+  I24.0 Acute coronary thrombosis not resulting in myocardial infarction
+  I24.1 Dressler syndrome
+  I24.8 Other acute ischaemic heart diseases
+  I24.9 Acute ischaemic heart disease, unspecified
+
+I25%  Chronic ischaemic heart disease
+  I25.0 Atherosclerotic cardiovascular disease
+  I25.1 Atherosclerotic heart disease
+  I25.2 Old myocardial infarction
+  I25.3 Aneurysm of heart
+  I25.4 Coronary artery aneurysm
+  I25.5 Ischaemic cardiomyopathy
+  I25.6 Silent myocardial ischaemia
+  I25.8 Other forms of chronic ischaemic heart disease
+  I25.9 Chronic ischaemic heart disease, unspecified
