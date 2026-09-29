@@ -1,2 +1,0 @@
-This TIA codelist was created using SNOMED CT diagnostic codes from the NHS Digital Primary Care Domain transient ischaemic attack reference set, available via OpenCodelists:
-https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/tia_cod/20250912

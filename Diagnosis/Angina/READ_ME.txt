@@ -1,1 +1,0 @@
-The angina codelist was created using diagnostic SNOMED CT codes derived from the NHS Digital Primary Care Domain reference set, available via OpenCodelists: https://www.opencodelists.org/codelist/nhsd-primary-care-domain-refsets/angina_cod/20250912
