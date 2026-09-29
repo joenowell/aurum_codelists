@@ -1,0 +1,32 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+636441000033116		Glyceryl Trinitrate  Cfc-free pump spray  400 micrograms/dose							158
+638841000033119	36051711000001100	Glyceryl trinitrate 10mg/10ml solution for infusion ampoules	Glyceryl trinitrate 10mg/10ml solution for infusion ampoules	Glyceryl trinitrate	1.000mg/1.000ml	Solution for infusion	Intravenous	02060100	5
+638941000033110		Glyceryl Trinitrate  Injection  50 mg/10 ml							4
+639041000033118		Glyceryl Trinitrate  Injection  500 micrograms/ml							807
+639741000033115	36052611000001103	Glyceryl trinitrate 5mg/5ml solution for infusion ampoules	Glyceryl trinitrate 5mg/5ml solution for infusion ampoules	Glyceryl trinitrate	1.000mg/1.000ml	Solution for infusion	Intravenous	02060100	67
+640041000033112	36052411000001101	Glyceryl trinitrate 50mg/50ml solution for infusion vials	Glyceryl trinitrate 50mg/50ml solution for infusion vials	Glyceryl trinitrate	1.000mg/1.000ml	Solution for infusion	Intravenous	02060100	2
+640241000033116		Glyceryl Trinitrate  Injection  25 mg/5 ml							1
+641141000033116	41899111000001106	Glyceryl trinitrate 2% transdermal ointment	Glyceryl trinitrate 2% transdermal ointment	Glyceryl trinitrate	20.000mg/1.000gram	Ointment/ Transdermal ointment	Transdermal	02060100	28634
+641441000033112		Glyceryl Trinitrate  Patches  25 mg							235
+641541000033113	36051911000001103	Glyceryl trinitrate 15mg/24hours transdermal patches	Glyceryl trinitrate 15mg/24hours transdermal patches	Glyceryl trinitrate	15.000mg/24.000hour	Transdermal patch	Transdermal	02060100	14560
+641641000033114		Glyceryl Trinitrate  Patches  2.5 mg							969
+641941000033119	36051811000001108	Glyceryl trinitrate 10mg/24hours transdermal patches	Glyceryl trinitrate 10mg/24hours transdermal patches	Glyceryl trinitrate	10.000mg/24.000hour	Transdermal patch	Transdermal	02060100	172550
+642041000033113	39024811000001103	Glyceryl trinitrate 5mg/24hours transdermal patches	Glyceryl trinitrate 5mg/24hours transdermal patches	Glyceryl trinitrate	5.000mg/24.000hour	Transdermal patch	Transdermal	02060100	303387
+642241000033117	18358011000001101	Glyceryl trinitrate 400micrograms/dose pump sublingual spray	Glyceryl trinitrate 400micrograms/dose pump sublingual spray	Glyceryl trinitrate	400.000microgram/1.000dose	Sublingual spray	Sublingual	02060100	10271975
+642441000033116	36052211000001100	Glyceryl trinitrate 2mg modified-release buccal tablets sugar free	Glyceryl trinitrate 2mg modified-release buccal tablets sugar free	Glyceryl trinitrate	2.000mg	Buccal tablet	Buccal	02060100	56983
+642541000033115	36052311000001108	Glyceryl trinitrate 3mg modified-release buccal tablets sugar free	Glyceryl trinitrate 3mg modified-release buccal tablets sugar free	Glyceryl trinitrate	3.000mg	Buccal tablet	Buccal	02060100	21116
+642641000033119	36052511000001102	Glyceryl trinitrate 5mg modified-release buccal tablets sugar free	Glyceryl trinitrate 5mg modified-release buccal tablets sugar free	Glyceryl trinitrate	5.000mg	Buccal tablet	Buccal	02060100	25235
+642741000033111	36051611000001109	Glyceryl trinitrate 10mg modified-release tablets	Glyceryl trinitrate 10mg modified-release tablets	Glyceryl trinitrate	10.000mg	Modified-release tablet	Oral	02060100	1421
+642841000033118		Glyceryl Trinitrate  S/r buccal tablets  1 mg							6367
+643541000033114		Glyceryl Trinitrate  Spray  400 micrograms/dose							2047193
+643841000033111	36052011000001105	Glyceryl trinitrate 2.6mg modified-release tablets	Glyceryl trinitrate 2.6mg modified-release tablets	Glyceryl trinitrate	2.600mg	Modified-release tablet	Oral	02060100	21832
+643941000033115	36052711000001107	Glyceryl trinitrate 6.4mg modified-release tablets	Glyceryl trinitrate 6.4mg modified-release tablets	Glyceryl trinitrate	6.400mg	Modified-release tablet	Oral	02060100	18189
+645141000033118	42211111000001100	Glyceryl trinitrate 500microgram sublingual tablets	Glyceryl trinitrate 500microgram sublingual tablets	Glyceryl trinitrate	500.000microgram	Sublingual tablet	Sublingual	02060100	2921952
+647041000033111	42211011000001101	Glyceryl trinitrate 300microgram sublingual tablets	Glyceryl trinitrate 300microgram sublingual tablets	Glyceryl trinitrate	300.000microgram	Sublingual tablet	Sublingual	02060100	292196
+647141000033110	42211211000001106	Glyceryl trinitrate 600microgram sublingual tablets	Glyceryl trinitrate 600microgram sublingual tablets	Glyceryl trinitrate	600.000microgram	Sublingual tablet	Sublingual	02060100	34627
+2104541000033117		Glyceryl Trinitrate  Cfc-free pump spray  400 micrograms/dose 250+75 dose unit							19323
+2207041000033119		Glyceryl Trinitrate  Cfc-free pump spray  400 micrograms/dose (180 dose)							468875
+2603341000033113	41899011000001105	Glyceryl trinitrate 0.2% ointment	Glyceryl trinitrate 0.2% ointment	Glyceryl trinitrate	2.000mg/1.000gram	Ointment	Transdermal/ Route of administration not applicable	01070400	58818
+2711741000033116		Glyceryl Trinitrate  Cfc-free pump spray  400 micrograms/dose (200 dose)							298156
+3291541000033113	9315411000001108	Glyceryl trinitrate 0.4% rectal ointment	Glyceryl trinitrate 0.4% rectal ointment	Glyceryl trinitrate	4.000mg/1.000gram	Rectal ointment	Rectal	01070400	409335
+6066741000033113	18357911000001103	Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray	Glyceryl trinitrate 400micrograms/dose aerosol sublingual spray	Glyceryl trinitrate	400.000microgram/1.000dose	Sublingual spray	Sublingual	02060100	1076372
